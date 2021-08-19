@@ -1,0 +1,13 @@
+baseURL: https://www.natureworks.org.uk/
+languageCode: "en-GB"
+title: NatureWorks
+theme: gonature
+
+params:
+  description: Hugo Modular CSS
+
+# Set mount for theme assets directory
+module:
+  mounts:
+  - source: /themes/gonature/assets
+    target: assets

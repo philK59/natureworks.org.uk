@@ -1,0 +1,252 @@
+/* ==========================================================================
+   CSS variables
+   ========================================================================== */
+
+:root {
+  /* Colors
+     ======================================================================== */
+
+  /* Base variables, adapated from SUIT CSS
+     ======================================================================== */
+}
+/* ==========================================================================
+   Base & type CSS
+   ========================================================================== */
+
+/**
+ * Derived from suit-base CSS
+ * https://github.com/suitcss/base
+ * Type CSS at end
+ */
+
+/* Apply a natural box layout model to all elements */
+*, *:before, *:after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+/* Apply variables */
+html {
+  background-color: white;
+  color: black;
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+input {
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+textarea {
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* Links */
+a {
+  color: blue;
+  text-decoration: underline;
+}
+
+a:hover, a:focus, a:active {
+  color: blue;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: purple;
+}
+
+*:focus {
+  outline: dotted 1px;
+}
+
+/* Prevents border on linked image in IE */
+img {
+  border: 0 solid transparent;
+}
+
+/* Removes the default spacing and border for appropriate elements */
+
+body, blockquote, dl, dd, h1, h2, h3, h4, h5, h6, p, pre {
+  margin: 0;
+}
+
+fieldset {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+iframe {
+  border: 0;
+}
+
+/* Nicely margined lists */
+ol, ul {
+  margin: 0.5rem 0 1rem 1.5rem;
+  padding: 0;
+}
+
+/* Collapsed tables for that modern look */
+table {
+  border-collapse: collapse;
+}
+
+/**
+ * Suppress the focus outline on elements that cannot be accessed via keyboard.
+ * This prevents an unwanted focus outline from appearing around elements that
+ * might still respond to pointer events.
+ */
+
+[tabindex='-1']:focus {
+  outline: none !important;
+}
+
+/* Responsive images */
+
+img, embed, object, video {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+/* Figure */
+
+figure {
+  margin: 0;
+}
+
+figcaption {
+  font-size: 0.9rem;
+  font-style: italic;
+  padding: 0.3rem 0.1rem 0.3rem 0.2rem;
+}
+/* ==========================================================================
+   Type CSS
+   ========================================================================== */
+
+/* Headings */
+h1, h2, h3, h4, h5 {
+  font-weight: 500;
+}
+
+h1 {
+  line-height: 1.1;
+  margin-bottom: 0.3em;
+}
+
+p {
+  margin-bottom: 0.5em;
+}
+
+pre {
+  margin: 0.5em 0;
+  padding: 1em;
+  border-radius: 0.3125em;
+}
+
+code {
+  border-radius: 0.0625em;
+  padding: 0 0.2em;
+}
+
+blockquote {
+  padding: 0.2em 1em 0 1em;
+  font-size: larger;
+  font-style: italic;
+}
+
+/* Faux utility headings */
+.u-h1 {
+  font-size: 2em !important;
+}
+
+/* Code */
+code, pre {
+  font-family: 'Menlo', 'Andale Mono', 'Monaco', 'Consolas', 'Lucida Console',
+    monospace;
+}
+/* ==========================================================================
+   list-bare
+   ==========================================================================*/
+
+/**
+ * The list-bare object removes any indents and bullet points from lists items
+ * https://github.com/inuitcss/objects.list-bare/blob/master/_objects.list-bare.scss
+ */
+
+.o-list-bare {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* ==========================================================================
+   Nav
+   ==========================================================================*/
+/* ==========================================================================
+   Footer
+   ========================================================================== */
+/* ==========================================================================
+   Header
+   ========================================================================== */
+/* ==========================================================================
+   Post
+   ========================================================================== */
+/* ==========================================================================
+   Wrapper
+   ========================================================================== */
+/* ==========================================================================
+   Utility - hidden visually
+   ========================================================================== */
+
+/**
+ * Completely remove from the flow but leave available to screen readers.
+ * Trumping display utility derived from SUIT CSS display utilities:
+ * https://github.com/suitcss/utils-display
+ */
+
+.u-hiddenvisually {
+  border: 0 !important;
+  clip: rect(1px, 1px, 1px, 1px) !important;
+  height: 1px !important;
+  overflow: hidden !important;
+  padding: 0 !important;
+  position: absolute !important;
+  width: 1px !important;
+}
+/* ==========================================================================
+   Utility - clearfix
+   ========================================================================== */
+
+/**
+ * Make an element expand to contain floated children.
+ * Uses pseudo-elements (micro clearfix).
+ * Trumping layout utility derived from SUIT CSS layout utilities:
+ * https://github.com/suitcss/utils-layout
+ */
+
+.u-cf:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+/* ==========================================================================
+   Shameful CSS
+   ========================================================================== */
+
+/**
+ * Put shameful CSS in here. Refactor later.
+ * http://csswizardry.com/2013/04/shame-css/
+ */
+
+/**
+ * Use the CSS Wizardry hack namespace
+ * eg ._footer-mobile {}
+ * https://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/#hack-namespaces-_
+ */
