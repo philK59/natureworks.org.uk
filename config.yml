@@ -1,13 +1,7 @@
 baseURL: https://www.natureworks.org.uk/
 languageCode: "en-GB"
 title: Nature Works
-theme: gonatural
+theme: icelab-hugo
 
 params:
   description: Wildlife & Forest Garden Design
-
-# Set mount for theme assets directory
-module:
-  mounts:
-  - source: /themes/gonatural/assets
-    target: assets
