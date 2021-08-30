@@ -1,7 +1,0 @@
-baseURL: https://www.natureworks.org.uk/
-languageCode: "en-GB"
-title: Nature Works
-theme: icelab-hugo
-
-params:
-  description: Wildlife & Forest Garden Design

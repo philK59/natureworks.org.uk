@@ -14,6 +14,7 @@
           <div class="logo">
             <a href="{{ .Site.BaseURL }}">
               <img src="{{ .Site.Params.logo | absURL }}" alt="logo">
+              <h3 class="text-white">Nature Works</h3>
             </a>
           </div>
         </div>
@@ -27,7 +28,7 @@
                 {{ end }}
               </ul>
             </nav>
-            <p>{{ .Site.Params.footer_content | markdownify }}</p>
+            <p>Email: <a href="mailto:hello@natureworks.org.uk">hello@natureworks.org.uk</a> Phone: <a href="tel:+447802535321">07802&nbsp;535&nbsp;321</a></p>
             <ul class="social-links list-inline">
               {{ range .Site.Params.social }}
               <li class="list-inline-item"><a href="{{ .link | safeURL }}" target="_blank"><i class="fa {{ .icon }}"></i></a></li>
