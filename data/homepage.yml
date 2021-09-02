@@ -1,7 +1,7 @@
 ######################## Banner ############################
 banner:
   enable : true
-  bg_image: "images/hero/hero-bg-2.jpg"
+  bg_image: "https://res.cloudinary.com/growdigital/image/upload/w_1400,q_40/v1543954134/quince-blossom-41405332295.jpg"
   title : "Garden<br>Design"
   content : "Wildlife and forest garden design, designing edible ecosystems in a time of Climate Emergency"
   button:
@@ -25,7 +25,7 @@ service:
     - name : "PSD to HTML"
       icon : "images/icon-2.svg"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
-      
+
     # service item loop
     - name : "Wordpress"
       icon : "images/icon-3.svg"
@@ -52,13 +52,13 @@ testimonial:
       image : "images/testimonial/quote-person.png"
       designation : "CEO, Align org"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      
+
     # testimonial item loop
     - name : "Good Win"
       image : "images/testimonial/quote-person.png"
       designation : "CEO, Align org"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      
+
     # testimonial item loop
     - name : "Good Win"
       image : "images/testimonial/quote-person.png"
