@@ -49,19 +49,19 @@ testimonial:
   testimonial_item:
     # testimonial item loop
     - name : "Good Win"
-      image : "images/testimonial/quote-person.png"
+      image : "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1552470457/scythe-square-face.jpg"
       designation : "CEO, Align org"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
     # testimonial item loop
     - name : "Good Win"
-      image : "images/testimonial/quote-person.png"
+      image : "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1572195912/jake-smile.jpg"
       designation : "CEO, Align org"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
     # testimonial item loop
     - name : "Good Win"
-      image : "images/testimonial/quote-person.png"
+      image : "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1620071435/jake-muddy-face.jpg"
       designation : "CEO, Align org"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
@@ -69,7 +69,7 @@ testimonial:
 ################# call to action ##################################3
 call_to_action:
   enable : true
-  title : "Interseted In Teaming Up?"
+  title : "Interested In Teaming Up?"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus asperiores dignissimos cupiditate! Necessitatibus distinctio molestiae omnis tempora facere in cum?"
   button:
     enable : true
