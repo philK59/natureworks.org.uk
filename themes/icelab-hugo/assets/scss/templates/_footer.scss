@@ -26,6 +26,13 @@
             margin-bottom: 30px;
         }
     }
+    /* Jake hackery for logo & name */
+    .logo a > * {
+      @include desktop-min{
+        float: left;
+        margin-right: 0.7rem;
+      }
+    }
     .content{
         text-align: right;
         @include desktop{

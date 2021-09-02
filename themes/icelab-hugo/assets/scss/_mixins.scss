@@ -19,6 +19,12 @@
     @content;
   }
 }
+/* Jake hackery */
+@mixin desktop-min{
+  @media(min-width:992px){
+    @content;
+  }
+}
 @mixin desktop-lg{
   @media(max-width:1199px){
     @content;
