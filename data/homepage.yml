@@ -45,7 +45,7 @@ portfolio:
 testimonial:
   enable : true
   subtitle : "Testimonials"
-  title : "LoveQuote <br> From Clients"
+  title : "Quotes<br> From Clients"
   testimonial_item:
     # testimonial item loop
     - name : "Good Win"
