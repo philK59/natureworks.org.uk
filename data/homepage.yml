@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "Garden<br>Design"
-  content : "Wildlife &amp; forest garden design.<br>Grow edible crops &amp; ornamental wild flowers with nature."
+  content : "Wildlife &amp; forest garden design. Grow edible crops &amp; ornamental wild flowers with nature."
   bg_image: "https://res.cloudinary.com/growdigital/image/upload/w_1400,q_40/v1543954134/quince-blossom-41405332295.jpg"
   button:
     enable : true
@@ -20,14 +20,18 @@ service:
     - name : "Sustainable gardening"
       icon : "images/icon-1.svg"
       content : "A forest garden is sustainable &amp; low-maintenance, utilising edible perennials grown in layers, with a living ground cover &amp; providing its own nutrients and pest control."
+      button:
+        enable : true
+        label : "something"
+        link : design
 
-    # service item loop
+        # service item loop
     - name : "Livestream"
       icon : "images/icon-2.svg"
       content : "Forest garden livestream every Wednesday 10am UK time on twitch.tv/natureworks, recordings on YouTube "
 
     # service item loop
-    - name : "Wordpress"
+    - name : "Courses"
       icon : "images/icon-3.svg"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
 
@@ -36,7 +40,7 @@ service:
 portfolio:
   enable : true
   subtitle : "Portfolio"
-  title : "Client gardens"
+  title : "Gardens designed"
 
   # portfolio item comes from `content/work/` folder
 

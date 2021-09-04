@@ -56,6 +56,11 @@
           <div class="content">
             <h6 class="sm">{{ .name | markdownify }}</h6>
             <p>{{ .content | markdownify }}</p>
+            {{ if .button.enable }}
+            {{ with .button }}
+            <a href="{{ .link | absURL }}" class="btn btn-primary" data-aos="fade-up" data-aos-delay="200">{{ .label }}</a>
+            {{ end }}
+            {{ end }}
           </div>
         </div>
       </div>
