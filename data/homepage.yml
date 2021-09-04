@@ -1,9 +1,9 @@
 ######################## Banner ############################
 banner:
   enable : true
-  bg_image: "https://res.cloudinary.com/growdigital/image/upload/w_1400,q_40/v1543954134/quince-blossom-41405332295.jpg"
   title : "Garden<br>Design"
   content : "Wildlife &amp; forest garden design.<br>Grow edible crops &amp; ornamental wild flowers with nature."
+  bg_image: "https://res.cloudinary.com/growdigital/image/upload/w_1400,q_40/v1543954134/quince-blossom-41405332295.jpg"
   button:
     enable : true
     label : "Portfolio"
@@ -12,19 +12,19 @@ banner:
 ################### Service #################################
 service:
   enable : true
-  bg_image : "images/shape-big.png"
-  subtitle : "Forest gardening"
   title : "Create Edible<br>Ecosystems"
+  subtitle : "Forest gardening"
+  bg_image : "images/shape-big.png"
   service_item:
     # service item loop
-    - name : "UX & UI Design"
+    - name : "Sustainable gardening"
       icon : "images/icon-1.svg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+      content : "A forest garden is sustainable &amp; low-maintenance, utilising edible perennials grown in layers, with a living ground cover &amp; providing its own nutrients and pest control."
 
     # service item loop
-    - name : "PSD to HTML"
+    - name : "Livestream"
       icon : "images/icon-2.svg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+      content : "Forest garden livestream every Wednesday 10am UK time on twitch.tv/natureworks, recordings on YouTube "
 
     # service item loop
     - name : "Wordpress"
@@ -48,15 +48,15 @@ testimonial:
   title : "Quotes<br> From Clients"
   testimonial_item:
     # testimonial item loop
-    - name : "Good Win"
-      image : "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1552470457/scythe-square-face.jpg"
-      designation : "CEO, Align org"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - name : "Kirsty Hayhoe"
+      image : "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1630788090/kirsty-hayhoe-portrait.jpg"
+      designation : "Hedgerows"
+      content : "I asked Jake for a forest garden plan for my medium sized back garden. The plans, drawings and lists were comprehensive and meticulous."
 
     # testimonial item loop
-    - name : "Good Win"
-      image : "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1572195912/jake-smile.jpg"
-      designation : "CEO, Align org"
+    - name : "Dan Buzzo"
+      image : "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1630788551/dan-buzzo.jpg"
+      designation : "La Dalle"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
     # testimonial item loop
