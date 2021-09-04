@@ -3,18 +3,18 @@ banner:
   enable : true
   bg_image: "https://res.cloudinary.com/growdigital/image/upload/w_1400,q_40/v1543954134/quince-blossom-41405332295.jpg"
   title : "Garden<br>Design"
-  content : "Wildlife and forest garden design, designing edible ecosystems in a time of Climate Emergency"
+  content : "Wildlife &amp; forest garden design.<br>Grow edible crops &amp; ornamental wild flowers with nature."
   button:
     enable : true
-    label : "Our Works"
-    link : "works"
+    label : "Portfolio"
+    link : "design"
 
 ################### Service #################################
 service:
   enable : true
   bg_image : "images/shape-big.png"
-  subtitle : "What We Do"
-  title : "Design Is How<br>Things Work"
+  subtitle : "Forest gardening"
+  title : "Create Edible<br>Ecosystems"
   service_item:
     # service item loop
     - name : "UX & UI Design"
@@ -36,7 +36,7 @@ service:
 portfolio:
   enable : true
   subtitle : "Portfolio"
-  title : "Our Recent Works"
+  title : "Client gardens"
 
   # portfolio item comes from `content/work/` folder
 
