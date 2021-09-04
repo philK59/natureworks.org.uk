@@ -21,9 +21,9 @@
   </div>
   <!-- Social -->
   <div class="social-links">
-    <ul class="list-inline">
+    <ul>
       {{ range $.Site.Params.social }}
-      <li class="list-inline-item"><a href="{{ .link | safeURL }}" target="_blank">{{ .name }}</a></li>
+      <li class=""><a href="{{ .link | safeURL }}" title="{{ .name }}" target="_blank"><i class="fa {{ .icon }}"></i></a></li>
       {{ end }}
     </ul>
   </div>

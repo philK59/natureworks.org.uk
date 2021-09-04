@@ -40,7 +40,7 @@ weight = 4
 
 #################### default parameters ##############################
 [params]
-logo = "images/logo.png"
+logo = "https://res.cloudinary.com/growdigital/image/upload/v1630698563/logo-nw.png"
 home = "Home"
 # Meta data
 description = "Wildlife & Forest Garden Design"

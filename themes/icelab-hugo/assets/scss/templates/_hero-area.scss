@@ -81,14 +81,15 @@
     }
     .social-links{
         position: absolute;
-        top: 50%;
-        transform: translateY(-50%) rotate(-90deg);
-        right: -60px;
+        top: 20%;
+        right: 50px;
         @include mobile{
             display: none;
         }
         ul{
+          list-style: none;
             li{
+              line-height: 3;
                 &:not(:last-child){
                     a{
                         margin-right: 10px;
