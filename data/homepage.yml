@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "Garden<br>Design"
-  content : "Wildlife &amp; forest garden design. Grow edible crops &amp; ornamental wild flowers with nature."
+  content : "Wildlife &amp; forest garden design by Jake Rayson. Grow edible crops &amp; ornamental wild flowers with nature."
   bg_image: "https://res.cloudinary.com/growdigital/image/upload/w_1400,q_40/v1543954134/quince-blossom-41405332295.jpg"
   button:
     enable : true
@@ -18,7 +18,7 @@ service:
   service_item:
     # service item loop
     - name : "Sustainable garden"
-      icon : "images/icon-1.svg"
+      icon : "https://res.cloudinary.com/growdigital/image/upload/w_55/v1630869174/icon-landscape.png"
       content : "A forest garden is sustainable &amp; low-maintenance, utilising edible perennials grown in layers, with a living ground cover &amp; providing its own nutrients and pest control."
       button:
         enable : true
@@ -27,7 +27,7 @@ service:
 
         # service item loop
     - name : "Forest Garden Livestream"
-      icon : "images/icon-2.svg"
+      icon : "https://res.cloudinary.com/growdigital/image/upload/w_55/v1630868761/icon-watering-plants.png"
       content : "Forest garden livestream every Wednesday 10am UK time on twitch.tv/natureworks, recordings on YouTube "
       button:
         enable : true
@@ -36,11 +36,11 @@ service:
 
     # service item loop
     - name : "Forest Garden Courses"
-      icon : "images/icon-3.svg"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+      icon : "https://res.cloudinary.com/growdigital/image/upload/w_55/v1630869174/icon-growth.png"
+      content : "From a free forest garden plant spreadsheet, through to a free mini-course, a full 3½ hour online course, or realtime workshops, there are options to help you get your garden off the ground."
       button:
         enable : true
-        label : "Tell me more!"
+        label : "Courses"
         link : course
 
 
@@ -61,29 +61,29 @@ testimonial:
   testimonial_item:
     # testimonial item loop
     - name : "Kirsty Hayhoe"
+      designation : "English village garden"
       image : "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1630788090/kirsty-hayhoe-portrait.jpg"
-      designation : "Hedgerows"
       content : "I asked Jake for a forest garden plan for my medium sized back garden. The plans, drawings and lists were comprehensive and meticulous. He made it easy to envision a beautiful, functioning ecosystem."
 
     # testimonial item loop
     - name : "Dan Buzzo"
+      designation : "Belgian country retreat"
       image : "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1630788551/dan-buzzo.jpg"
-      designation : "La Dalle"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
     # testimonial item loop
-    - name : "Good Win"
-      image : "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1620071435/jake-muddy-face.jpg"
-      designation : "CEO, Align org"
+    - name : "Christine de León"
+      designation : "North London terrace garden"
+      image : "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1630869362/christine-deleon.jpg"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 
 ################# call to action ##################################3
 call_to_action:
   enable : true
-  title : "Interested In Teaming Up?"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus asperiores dignissimos cupiditate! Necessitatibus distinctio molestiae omnis tempora facere in cum?"
+  title : "Interested in a wildlife forest garden?"
+  content : "If you would like help with creating a wildlife forest garden, whether it’s a consultation, which course to choose, an outline plan or full design & landscaping, send me an email."
   button:
     enable : true
-    label : "Let's Chat"
-    link : "contact"
+    label : "Email Jake"
+    link : "mailto:hello@natureworks.org.uk?Subject=Forest%20garden%20design"
