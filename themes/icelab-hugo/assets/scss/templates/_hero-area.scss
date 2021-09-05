@@ -89,11 +89,14 @@
         ul{
           list-style: none;
             li{
-              line-height: 3;
-                &:not(:last-child){
-                    a{
-                        margin-right: 10px;
-                    }
+              line-height: 3.5;
+              &:not(:last-child){
+                a{
+                  margin-right: 10px;
+                }
+              }
+              .fa {
+                font-size: 22px;
                 }
                 a{
                     position: relative;
