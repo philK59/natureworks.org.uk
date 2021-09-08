@@ -506,10 +506,10 @@ The Wildlife Forest Garden Wednesday 6th May, 10am BST twitch.</description>
     
     <item>
       <title>Articles</title>
-      <link>http://localhost:1313/article/articles/</link>
+      <link>http://localhost:1313/article/</link>
       <pubDate>Sat, 11 Jan 2020 20:14:46 +0000</pubDate>
       
-      <guid>http://localhost:1313/article/articles/</guid>
+      <guid>http://localhost:1313/article/</guid>
       <description>Articles for reference. Short URLs, concise info 🙂 💚 🌳</description>
     </item>
     

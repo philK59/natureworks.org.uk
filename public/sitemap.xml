@@ -335,7 +335,7 @@
     <loc>http://localhost:1313/blog/wild-orchids-of-wales/</loc>
     <lastmod>2020-01-12T20:30:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/article/articles/</loc>
+    <loc>http://localhost:1313/article/</loc>
     <lastmod>2020-01-11T20:14:46+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/article/hostas/</loc>
@@ -503,6 +503,9 @@
     <loc>http://localhost:1313/blog/peatfree-climate-emergency/</loc>
     <lastmod>2019-09-04T16:36:54+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2019-08-29T15:38:38+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/design/portfolio-1/</loc>
     <lastmod>2019-08-29T15:38:38+06:00</lastmod>
   </url><url>
@@ -522,9 +525,6 @@
     <lastmod>2019-08-29T15:38:38+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/design/portfolio-4/</loc>
-    <lastmod>2019-08-29T15:38:38+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
     <lastmod>2019-08-29T15:38:38+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/design/</loc>
