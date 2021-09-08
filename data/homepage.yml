@@ -19,7 +19,7 @@ service:
     # service item loop
     - name : "Sustainable garden"
       icon : "https://res.cloudinary.com/growdigital/image/upload/w_55/v1630869174/icon-landscape.png"
-      content : "A forest garden is sustainable &amp; low-maintenance, utilising edible perennials grown in layers, with a living ground cover &amp; providing its own nutrients and pest control."
+      content : "A forest garden is sustainable &amp; low-maintenance, using layers of edible perennials, a living ground cover &amp; providing its own nutrients and pest control."
       button:
         enable : true
         label : "I want one!"
@@ -28,7 +28,7 @@ service:
         # service item loop
     - name : "Forest Garden Livestream"
       icon : "https://res.cloudinary.com/growdigital/image/upload/w_55/v1630868761/icon-watering-plants.png"
-      content : "Forest garden livestream every Wednesday 10am UK time on twitch.tv/natureworks, recordings on YouTube "
+      content : "A forest garden livestream every Wednesday 10am UK time on twitch.tv/natureworks. All past recordings on my YouTube channel."
       button:
         enable : true
         label : "Past livestreams"
@@ -37,7 +37,7 @@ service:
     # service item loop
     - name : "Forest Garden Courses"
       icon : "https://res.cloudinary.com/growdigital/image/upload/w_55/v1630869174/icon-growth.png"
-      content : "From a free forest garden plant spreadsheet, through to a free mini-course, a full 3½ hour online course, or realtime workshops, there are options to help you get your garden off the ground."
+      content : "From a free mini-course, via a full 3½ hour online course, to realtime workshops, there are options to help you get your garden off the ground."
       button:
         enable : true
         label : "Courses"
