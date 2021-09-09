@@ -68,7 +68,7 @@ testimonial:
     # Testimonial item loop
     - name : "Daniel Richards"
       designation : "One acre Welsh forest garden"
-      image : "https://res.cloudinary.com/growdigital/image/upload/w_56,w_56/v1631126673/danavatar.jpg"
+      image : "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1631175141/alsatian-hat.jpg"
       content : "Jake worked through our requirements and helped develop a comprehensive vision of what we wanted. The plans were meticulous and Jake was patient, knowledgeable and client led throughout. It was a pleasure working with him."
 
     # Testimonial item loop
