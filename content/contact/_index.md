@@ -6,10 +6,7 @@ draft: false
 
 #### Contact Info
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore agna liqua fina water.
-
-* Tel. : +880 1672 506 744
-* Email : themefisher@gmail.com
-* Skype : Mehedi Sharif Titas
-* Whatsapp : +880 1672 506 744
-* Address : Shyamoli, Dhaka.
+* Jake Rayson
+* Tel. : +44 7802 535 321
+* Email : hello@natureworks.org.uk
+* Address : Penralltgeri Isaf, Ceredigion SA38&nbsp;9PA

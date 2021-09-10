@@ -19,18 +19,17 @@
       <div class="col-lg-4">
         <!-- sidebar -->
         <div class="work-single-sidebar bg-gray" data-aos="fade-up" data-aos-duration="500" data-aos-once="true">
-          <h5>Clients</h5>
+          <h5>Client</h5>
           <h6>{{ .Params.Client }}</h6>
           <h5>Website Link</h5>
-          <h6><a class="h6" href="{{.Params.SiteLink}}">{{.Params.SiteLink}}</a></h6>
-          <h5>date</h5>
+          <h6><a class="h6" href="https://{{.Params.SiteLink}}">{{.Params.SiteLink}}</a></h6>
+          <h5>Date</h5>
           <h6>{{ .PublishDate.Format "January 02, 2006" }}</h6>
-          <h5>category</h5>
+          <h5>Category</h5>
           <h6>{{ .Params.Category }}</h6>
-          <h5>locations</h5>
+          <h5>Location</h5>
           <h6>{{ .Params.location }}</h6>
-          <h4 class="mt-5">Need Similar Service?</h4>
-          <a href="/contact" class="btn btn-primary">Contact Us</a>
+          <a href="mailto:hello@natureworks.org.uk" class="btn btn-primary">Email Jake</a>
         </div>
       </div>
     </div>

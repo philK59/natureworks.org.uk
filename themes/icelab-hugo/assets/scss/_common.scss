@@ -59,7 +59,7 @@ body{
 ::-webkit-scrollbar-thumb {
     border-radius: 20px;
     background: $primary-color;
-} 
+}
 
 // Headroomjs Styles
 .headroom {
@@ -79,7 +79,7 @@ body{
 // Page Title Styles
 .page-title{
     padding: 220px 0 180px;
-    background-image: url("../images/backgrounds/page-title-bg.jpg");
+    background-image: url("https://res.cloudinary.com/growdigital/image/upload/b_black,o_20/v1544219005/valeriana-41717565655.jpg");
     background-size: cover;
     background-position: center center;
     position: relative;
@@ -117,3 +117,4 @@ body{
         border-color: $primary-color;
     }
 }
+
