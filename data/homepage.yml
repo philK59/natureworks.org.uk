@@ -81,9 +81,9 @@ testimonial:
 ################# call to action ##################################3
 call_to_action:
   enable : true
-  title : "Interested in a wildlife forest garden?"
-  content : "If you’d like help creating a wildlife forest garden, whether it’s a consultation, adivce on which course to choose, an outline plan or full design & landscaping, please send an email."
+  title : "Forest garden online course"
+  content : "If you want to transform your patch of ground into a lush food forest, then this full 3½ hour online course is for you. “Very informative, organised presentation and easy to follow!” ~ Kartini Clapham"
   button:
     enable : true
-    label : "Email Jake"
-    link : "mailto:hello@natureworks.org.uk?Subject=Forest%20garden%20design"
+    label : "Buy Backyard Forest"
+    link : "https://gumroad.com/l/kltGD"

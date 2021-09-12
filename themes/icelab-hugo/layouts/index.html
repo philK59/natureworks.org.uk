@@ -102,14 +102,13 @@
       {{ end }}
 
       <div class="col-12 mt-5 text-center">
-        <img class="img-fluid d-block mx-auto mb-4" src="https://res.cloudinary.com/growdigital/image/upload/w_480/v1631113586/elephant-garlic-flower-crop.jpg">
+        <img class="img-fluid d-block mx-auto mb-4" src="https://res.cloudinary.com/growdigital/image/upload/w_480/v1631113586/elephant-garlic-flower-crop.jpg" alt="Purple allium flower">
         <a href="/works" class="btn btn-primary">View Projects</a>
       </div>
     </div>
   </div>
 </section>
 {{ end }}
-
 
 {{ if .Site.Data.homepage.testimonial.enable }}
 {{ with .Site.Data.homepage.testimonial }}
@@ -166,6 +165,7 @@
       <div class="col-12 text-center">
         <div class="content">
           <h2 class="text-white">{{ .title | markdownify }}</h2>
+          <img class="img-fluid d-block mx-auto mt-4 mb-4" src="https://res.cloudinary.com/growdigital/image/upload/w_480/v1631477439/natureworks/backyard-forest-gumroad.jpg" alt="Small forest garden, title 'The Backyard Forest'">
           <p class="text-white mb-4 mx-auto">{{ .content | markdownify }}</p>
           {{ if .button.enable }}
           {{ with .button }}
@@ -180,4 +180,5 @@
 {{ end }}
 {{ end }}
 
+<script src="https://gumroad.com/js/gumroad.js"></script>
 {{ end }}
