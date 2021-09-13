@@ -77,6 +77,12 @@ testimonial:
       image : "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1630962703/glen-peters.jpg"
       content : "Jake took on a complex job to design and implement the gardens for 10 affordable homes at Berllan Aur, our Zero Carbon development. He produced an imaginative, low maintenance scheme including native species and sourced them cost effectively."
 
+    # Testimonial item loop
+    - name : "Kristina & Dan"
+      designation : "0.6 hectare Belgian country garden"
+      image : "https://res.cloudinary.com/growdigital/image/upload/w_56,h_56/v1630962703/dan-buzzo.jpg"
+      content : "Jake did a fantastic job, understanding the space, our needs, and also the real on site challenges. With interviews and discussion, video and remote surveying he produced a fantastic easy to follow plan, complete with planting guides and ideas for cropping edibles."
+
 
 ################# call to action ##################################3
 call_to_action:
