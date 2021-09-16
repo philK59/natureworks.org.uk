@@ -34,7 +34,7 @@ incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
 Consequuntur magni dolores ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia
 dolor sit amet consectetur adipisci velit.
 
-<img class="img-fluid mb-4" src="https://res.cloudinary.com/growdigital/image/upload/w_800/v1558731365/aquilega-55D0513A.jpg" alt="Blue wildflowers">
+<img class="img-fluid mb-4" src="https://res.cloudinary.com/growdigital/image/upload/w_800/v1631820702/bee-pollinating-aquilegia-vulgaris-169.jpg" alt="Bee pollinating blue Columbine flower. Photo by Roo72 on Wikimedia Commons.">
 
 lorem ipsum dolor sit amet consectetur adipisicing elit
 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam quis nostrud
