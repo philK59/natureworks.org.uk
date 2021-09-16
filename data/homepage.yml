@@ -87,9 +87,9 @@ testimonial:
 ################# call to action ##################################3
 call_to_action:
   enable : true
-  title : "Forest garden online course"
-  content : "If you want to transform your patch of ground into a lush food forest, then this full 3½ hour online course is for you. “Very informative, organised presentation and easy to follow!” ~ Kartini Clapham"
+  title : "Free forest garden mini-course"
+  content : "Interested in how to plan a forest garden? Then this FREE mini-course is for you! Includes a PDF checklist of observations, how to set up both a CAD and paper map, and includes a bonus design section. Grab your copy now. <br>“Methodic and helpful.” ~ Asher Efraim Feldman"
   button:
     enable : true
-    label : "Buy Backyard Forest"
-    link : "https://gumroad.com/l/kltGD"
+    label : "Grab Your Copy"
+    link : "https://gumroad.com/l/tACsQ"
