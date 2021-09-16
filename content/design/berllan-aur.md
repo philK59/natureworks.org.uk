@@ -5,21 +5,13 @@ draft: false
 image: "https://res.cloudinary.com/growdigital/image/upload/w_800/v1623771051/berllanaur/belinda-house-210615.jpg"
 company: "Western Solar"
 client: "Glen Peters"
-category: "Eco-homes forest garden landscaping"
+category: "Forest garden landscaping for eco-homes development"
 location: "Boncath, Pembrokeshire, Wales"
 siteLink: "berllanaur.uk"
 ---
 
 ### Community forest gardens for eco-homes
           
-Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt
-explicabo.
-nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur
-magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor
-amet consectetur adipisci velit. lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation
-ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim est
 laborum. Sed ut perspiciatis unde omnis iste natus. error sit voluptatem accusantium doloremque laudantium,
@@ -39,6 +31,5 @@ sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ut enim ad mi
 exercitation ullamco laboris nisi ut aliquip commodo consequat. 
 
 Reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur. Excepteur sint occaecat
-cupidatat
-non proident. sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis
+cupidatat non proident. sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis
 unde omnis iste natus.

@@ -5,7 +5,7 @@ draft: false
 image: "https://res.cloudinary.com/growdigital/image/upload/w_800/v1631308152/rhug/scabious.jpg"
 company: ""
 client: "Harry & Natalie"
-category: "Welsh holiday ornamental native patio garden"
+category: "Ornamental native patio garden for Welsh holiday cottage"
 location: "St Dogmaels, Wales"
 siteLink: "bit.ly/rhug-garden"
 ---

@@ -5,7 +5,7 @@ draft: false
 image: "https://res.cloudinary.com/growdigital/image/upload/v1631304479/hedgerows/hedgerows-flowers-shed.jpg"
 company: ""
 client: "Kirsty Hayhoe"
-category: "English village forest garden"
+category: "Forest garden for English village property"
 location: "Northamptonshire, England"
 siteLink: "bit.ly/hedgerows-garden"
 ---
