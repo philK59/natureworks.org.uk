@@ -29,8 +29,9 @@ consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porr
 dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
 
+> Jake took on a complex job to design and implement the gardens for 10 affordable homes at Berllan Aur, our Zero Carbon development. He produced an imaginative, low maintenance scheme including native species and sourced them cost effectively.
 
->Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt labore et dolore magna aliqua. ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
+~ Glen Peters, CEO, Western Solar Ltd
           
 Consequuntur magni dolores ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia
 dolor sit amet consectetur adipisci velit.lorem ipsum dolor sit amet consectetur adipisicing elit
