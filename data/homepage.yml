@@ -91,5 +91,5 @@ call_to_action:
   content : "Interested in how to plan a forest garden? Then this FREE mini-course is for you! Includes a PDF checklist of observations, how to set up both a CAD and paper map, and includes a bonus design section. Grab your copy now. <br>“Methodic and helpful.” ~ Asher Efraim Feldman"
   button:
     enable : true
-    label : "Grab Your Copy"
+    label : "Grab Your Copy!"
     link : "https://gumroad.com/l/tACsQ"
