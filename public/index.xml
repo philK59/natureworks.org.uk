@@ -8,12 +8,39 @@
     <language>en-gb</language>
     <lastBuildDate>Thu, 31 Dec 2020 11:30:17 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>School</title>
+      <link>http://localhost:1313/article/school/</link>
+      <pubDate>Mon, 24 May 2021 13:24:09 +0100</pubDate>
+      
+      <guid>http://localhost:1313/article/school/</guid>
+      <description>Notes relating to setting up a forest garden in a school.</description>
+    </item>
+    
+    <item>
+      <title>Guard</title>
+      <link>http://localhost:1313/article/guard/</link>
+      <pubDate>Tue, 27 Apr 2021 11:41:50 +0100</pubDate>
+      
+      <guid>http://localhost:1313/article/guard/</guid>
+      <description>If you have deer, wild boar, wild goats or rabbits, then you’ll need to protect your newly planted trees.</description>
+    </item>
+    
+    <item>
       <title>Mostly native</title>
       <link>http://localhost:1313/blog/mostly-native/</link>
       <pubDate>Thu, 31 Dec 2020 11:30:17 +0000</pubDate>
       
       <guid>http://localhost:1313/blog/mostly-native/</guid>
       <description>On part of the eco-homes project I’m landscaping, there’s a 2m high clay and shale bank.</description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>http://localhost:1313/article/photos/</link>
+      <pubDate>Thu, 19 Nov 2020 14:24:24 +0000</pubDate>
+      
+      <guid>http://localhost:1313/article/photos/</guid>
+      <description>Email Jake the plant photo details!  Make sure to add the plant ID from the checklist https://bit.</description>
     </item>
     
     <item>
@@ -32,6 +59,60 @@
       
       <guid>http://localhost:1313/blog/livestream-20111-ground-cover/</guid>
       <description>Forest Garden Livestream Wednesday 11th November, 10am GMT On this Wednesday’s livestream, I’ll be out in the forest garden in the new perennial veg area, planting out some ground cover plants.</description>
+    </item>
+    
+    <item>
+      <title>Reservoir</title>
+      <link>http://localhost:1313/article/reservoir/</link>
+      <pubDate>Sat, 10 Oct 2020 15:39:26 +0100</pubDate>
+      
+      <guid>http://localhost:1313/article/reservoir/</guid>
+      <description>Martin Crawford has information about creating a reservoir in Agroforestry News vol 23 no.</description>
+    </item>
+    
+    <item>
+      <title>Conduct</title>
+      <link>http://localhost:1313/article/conduct/</link>
+      <pubDate>Thu, 08 Oct 2020 10:56:36 +0100</pubDate>
+      
+      <guid>http://localhost:1313/article/conduct/</guid>
+      <description>Citizen Code of Conduct 1. Purpose A primary goal of Forest Garden Wales is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible.</description>
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>http://localhost:1313/article/gallery/</link>
+      <pubDate>Wed, 07 Oct 2020 11:44:06 +0100</pubDate>
+      
+      <guid>http://localhost:1313/article/gallery/</guid>
+      <description>The ForestGardenGallery.uk is a photo gallery of forest garden plants. It is organised along the lines of Martin Crawford’s seminal book Creating a Forest Garden, which mentions over 400 different species:</description>
+    </item>
+    
+    <item>
+      <title>Almanac</title>
+      <link>http://localhost:1313/article/almanac/</link>
+      <pubDate>Tue, 06 Oct 2020 20:15:49 +0100</pubDate>
+      
+      <guid>http://localhost:1313/article/almanac/</guid>
+      <description>Jobs for the forest garden year, a work in progress 🙂</description>
+    </item>
+    
+    <item>
+      <title>Walkthroughs</title>
+      <link>http://localhost:1313/article/walkthroughs/</link>
+      <pubDate>Tue, 06 Oct 2020 19:22:27 +0100</pubDate>
+      
+      <guid>http://localhost:1313/article/walkthroughs/</guid>
+      <description>Here is a list of all the practical walkthrough videos that I have planned for my online course The Backyard Forest.</description>
+    </item>
+    
+    <item>
+      <title>Spreadsheets</title>
+      <link>http://localhost:1313/article/spreadsheets/</link>
+      <pubDate>Tue, 06 Oct 2020 09:21:10 +0100</pubDate>
+      
+      <guid>http://localhost:1313/article/spreadsheets/</guid>
+      <description>Plants For A Future is a brilliant online database of useful plants, invaluable for forest gardeners.</description>
     </item>
     
     <item>
@@ -89,12 +170,30 @@
     </item>
     
     <item>
+      <title>Protection</title>
+      <link>http://localhost:1313/article/protection/</link>
+      <pubDate>Sat, 20 Jun 2020 08:48:10 +0100</pubDate>
+      
+      <guid>http://localhost:1313/article/protection/</guid>
+      <description>Protect &amp;amp; thrive!  Protection — from wind, frost, sun &amp;amp; predators Wind  Windbreak hedge Nurse tree Dead hedge   Wind &amp;amp; cold  Potting shed Greenhouse Polytunnel Cold frames Heated propagation bed   Protect some young plants from direct sun Protect young plants from drying out Protect from weed competition Protect from predators  Note: will be updating this page with examples &amp;amp; photos</description>
+    </item>
+    
+    <item>
       <title>Pt.2 Plan a Backyard Forest</title>
       <link>http://localhost:1313/blog/course-livestream-02-plan/</link>
       <pubDate>Wed, 17 Jun 2020 11:21:03 +0100</pubDate>
       
       <guid>http://localhost:1313/blog/course-livestream-02-plan/</guid>
       <description>Every week on a Wednesday at 10am, I am a livestreaming a free preview of my online forest garden course, as part of my regular Lockdown Livestream.</description>
+    </item>
+    
+    <item>
+      <title>Comfrey</title>
+      <link>http://localhost:1313/article/comfrey/</link>
+      <pubDate>Mon, 15 Jun 2020 12:55:40 +0100</pubDate>
+      
+      <guid>http://localhost:1313/article/comfrey/</guid>
+      <description>Comfrey is rich in Potassium, and is a fantastic fertiliser for fruiting plants.</description>
     </item>
     
     <item>
@@ -197,6 +296,15 @@
     </item>
     
     <item>
+      <title>Survey</title>
+      <link>http://localhost:1313/article/survey/</link>
+      <pubDate>Mon, 11 May 2020 21:11:42 +0100</pubDate>
+      
+      <guid>http://localhost:1313/article/survey/</guid>
+      <description>Position  Compass orientation Elevation Slope   Elements  Water Earth Wind, prevailing Sun Climate   Features  Existing plants Utilities Structures Access   Situation  Privacy Noise Smell    Also see Forest Garden Planning Checklist PDF download 🙂</description>
+    </item>
+    
+    <item>
       <title>Lockdown Livestream Wildlife May 2020</title>
       <link>http://localhost:1313/blog/lockdown-livestream-wildlife-may-2020/</link>
       <pubDate>Wed, 06 May 2020 12:50:28 +0100</pubDate>
@@ -258,6 +366,24 @@ The Wildlife Forest Garden Wednesday 6th May, 10am BST twitch.</description>
       
       <guid>http://localhost:1313/blog/small-forest-garden-workshop/</guid>
       <description>Thanks to everyone who turned up for the free online forest garden workshop 😀</description>
+    </item>
+    
+    <item>
+      <title>Diversity</title>
+      <link>http://localhost:1313/article/diversity/</link>
+      <pubDate>Mon, 13 Apr 2020 21:19:03 +0100</pubDate>
+      
+      <guid>http://localhost:1313/article/diversity/</guid>
+      <description>87% of the UK identify as White. In the UK horticulture industry, the figure is 99%*.</description>
+    </item>
+    
+    <item>
+      <title>Nutrients</title>
+      <link>http://localhost:1313/article/nutrients/</link>
+      <pubDate>Mon, 13 Apr 2020 21:19:03 +0100</pubDate>
+      
+      <guid>http://localhost:1313/article/nutrients/</guid>
+      <description>The aim is to have your forest garden as a ecosystem, so that it doesn’t rely on any external inputs for fertility, water or pest control.</description>
     </item>
     
     <item>
@@ -333,6 +459,34 @@ The Wildlife Forest Garden Wednesday 6th May, 10am BST twitch.</description>
     </item>
     
     <item>
+      <title>Estimate</title>
+      <link>http://localhost:1313/article/estimate/</link>
+      <pubDate>Tue, 04 Feb 2020 13:32:37 +0000</pubDate>
+      
+      <guid>http://localhost:1313/article/estimate/</guid>
+      <description>Estimate per 100m²
+ Assume clearing grass land 1 tonne bark or wood chip mulch, £35 per tonne Approx 400 plants (3-5 per m²) Approx 250g White Mustard seed temp ground cover plant  Ground preparation Sheet mulch  Sheet mulch per 100m² (2m x 50m) £40 Metal pegs x50 £10     Job Time     Mow 3 hr   Lay sheet mulch 3 hr   Leave 2-3 mth   Lift sheet mulch 3 hr   Lay bark 6 hr   Plant ground cover 4 hr   Sow temp cover 1 hr   Total 20 hr    Scraping  Mini-digger 1 day hire £100 Digger drive 1 day £100 Diesel £20  Only cost effective for half hectare site, ⅓ of which scraped ie 1500 m².</description>
+    </item>
+    
+    <item>
+      <title>Nurse tree</title>
+      <link>http://localhost:1313/article/nurse-tree/</link>
+      <pubDate>Wed, 29 Jan 2020 18:29:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/article/nurse-tree/</guid>
+      <description>A nurse tree is a fast-growing tree or shrub planted a couple of metres away from a newly planted specimen tree, in the windward direction, normally grown in groups of 2 or 3.</description>
+    </item>
+    
+    <item>
+      <title>Wildflower</title>
+      <link>http://localhost:1313/article/wildflower/</link>
+      <pubDate>Sun, 19 Jan 2020 14:40:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/article/wildflower/</guid>
+      <description>Some suggestions from Twitter about starting out in the world of UK native wild flowers.</description>
+    </item>
+    
+    <item>
       <title>The idea of a modular forest garden</title>
       <link>http://localhost:1313/blog/modular-forest-garden/</link>
       <pubDate>Thu, 16 Jan 2020 10:58:22 +0000</pubDate>
@@ -351,12 +505,40 @@ The Wildlife Forest Garden Wednesday 6th May, 10am BST twitch.</description>
     </item>
     
     <item>
-      <title>Articles</title>
-      <link>http://localhost:1313/article/</link>
-      <pubDate>Sat, 11 Jan 2020 20:14:46 +0000</pubDate>
+      <title>Hostas</title>
+      <link>http://localhost:1313/article/hostas/</link>
+      <pubDate>Wed, 08 Jan 2020 14:34:33 +0000</pubDate>
       
-      <guid>http://localhost:1313/article/</guid>
-      <description>Articles for reference. Short URLs, concise info 🙂 💚 🌳</description>
+      <guid>http://localhost:1313/article/hostas/</guid>
+      <description>Hosta crispula 0.6m x 1m
+ Hosta longipes 0.3m x 1m</description>
+    </item>
+    
+    <item>
+      <title>Chop ‘n’ drop</title>
+      <link>http://localhost:1313/article/chop-n-drop/</link>
+      <pubDate>Tue, 07 Jan 2020 10:30:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/article/chop-n-drop/</guid>
+      <description>Comfrey is a garden workhorse. As a mineral accumulator, it’s rich in potassium and is used to make a liquid compost.</description>
+    </item>
+    
+    <item>
+      <title>Recommended</title>
+      <link>http://localhost:1313/article/recommended/</link>
+      <pubDate>Mon, 06 Jan 2020 11:54:52 +0000</pubDate>
+      
+      <guid>http://localhost:1313/article/recommended/</guid>
+      <description>Books  Creating a Forest Garden by Martin Crawford A New Garden Ethic by Benjamin Vogt, the morality of gardening with natives The Wild Garden, by Violet Stevenson, 1985 but pretty much the only book covering the use of UK native plants Around the world in 80 plants by Stephen Barstow, a global romp around edible plants The Garden of Equal Delights by Anni Kelsey, forest gardening from the gardener’s perspective, delightful and intriguing  Suppliers  Backyard Larder, Alison Tindale Incredible Veg, Mandy Barber Agroforestry Research Trust, Martin Crawford Cool Temperate, Phil Corbett Future Forests, for hedging  Websites  Plants For A Future brilliant database of useful plants, essential Database of Insects &amp;amp; their Food intoxifying amount of info about which plants are hosts for which insects orangepippin.</description>
+    </item>
+    
+    <item>
+      <title>Top 10 perennial veg</title>
+      <link>http://localhost:1313/article/top-10-perennial-veg/</link>
+      <pubDate>Mon, 06 Jan 2020 11:22:50 +0000</pubDate>
+      
+      <guid>http://localhost:1313/article/top-10-perennial-veg/</guid>
+      <description>Caucasian Spinach Day Lillies Welsh Onion Garden Sorrel Good King Henry Perennial Kale Perennial Leek Siberian Purslane Turkish Rocket Wild Garlic  Big thank you to Alison Tindale at Backyard Larder for some great plants, profiles and photos, to Martin Crawford for writing Creating a Forest Garden, to Mandy Barber at Incredible Vegetables for the inspiration, and to Stephen Barstow for his unrelenting exploration of all things edimental.</description>
     </item>
     
     <item>
@@ -590,7 +772,7 @@ The Wildlife Forest Garden Wednesday 6th May, 10am BST twitch.</description>
       <pubDate>Thu, 29 Aug 2019 15:38:38 +0600</pubDate>
       
       <guid>http://localhost:1313/design/penparcau/</guid>
-      <description>Half ac Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.</description>
+      <description>Forest garden practicality &amp;amp; loose Georgian elegance Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.</description>
     </item>
     
     <item>
@@ -657,6 +839,24 @@ The Wildlife Forest Garden Wednesday 6th May, 10am BST twitch.</description>
     </item>
     
     <item>
+      <title>Clay lined pond</title>
+      <link>http://localhost:1313/article/clay-lined-pond/</link>
+      <pubDate>Wed, 26 Jun 2019 15:57:25 +0100</pubDate>
+      
+      <guid>http://localhost:1313/article/clay-lined-pond/</guid>
+      <description>I’m creating yet another wildlife pond, this time in the Ornamental Forest Garden.</description>
+    </item>
+    
+    <item>
+      <title>Wildlife features</title>
+      <link>http://localhost:1313/article/wildlife-features/</link>
+      <pubDate>Wed, 26 Jun 2019 09:37:02 +0100</pubDate>
+      
+      <guid>http://localhost:1313/article/wildlife-features/</guid>
+      <description>A simple list of features that benefit wildlife in any garden.</description>
+    </item>
+    
+    <item>
       <title>Wildlife garden checklist</title>
       <link>http://localhost:1313/blog/wildlife-garden-checklist/</link>
       <pubDate>Wed, 26 Jun 2019 09:37:02 +0100</pubDate>
@@ -703,6 +903,15 @@ The Wildlife Forest Garden Wednesday 6th May, 10am BST twitch.</description>
     </item>
     
     <item>
+      <title>Perennial veg</title>
+      <link>http://localhost:1313/article/perennial-veg-alternatives/</link>
+      <pubDate>Thu, 16 May 2019 12:39:12 +0100</pubDate>
+      
+      <guid>http://localhost:1313/article/perennial-veg-alternatives/</guid>
+      <description>Perennial vegetable alternatives to annual vegetables, a reference to help make the transition to perennial veg.</description>
+    </item>
+    
+    <item>
       <title>Lynda’s Tayberry fedge</title>
       <link>http://localhost:1313/blog/lyndas-tayberry-fedge/</link>
       <pubDate>Wed, 15 May 2019 13:29:58 +0100</pubDate>
@@ -712,12 +921,30 @@ The Wildlife Forest Garden Wednesday 6th May, 10am BST twitch.</description>
     </item>
     
     <item>
+      <title>Label</title>
+      <link>http://localhost:1313/article/label/</link>
+      <pubDate>Sun, 12 May 2019 22:28:17 +0100</pubDate>
+      
+      <guid>http://localhost:1313/article/label/</guid>
+      <description>I used to tie ordinary plant labels to tree branches with bits of baling twine.</description>
+    </item>
+    
+    <item>
       <title>Recycled ever-expanding plant labels</title>
       <link>http://localhost:1313/blog/recycled-ever-expanding-plant-labels/</link>
       <pubDate>Sun, 12 May 2019 22:28:17 +0100</pubDate>
       
       <guid>http://localhost:1313/blog/recycled-ever-expanding-plant-labels/</guid>
       <description>I used to tie ordinary plants to tree branches with bits of baling twine.</description>
+    </item>
+    
+    <item>
+      <title>Ground cover</title>
+      <link>http://localhost:1313/article/ground-cover/</link>
+      <pubDate>Tue, 30 Apr 2019 20:10:44 +0100</pubDate>
+      
+      <guid>http://localhost:1313/article/ground-cover/</guid>
+      <description>A key principle of no-dig gardening is to always protect the soil with mulch.</description>
     </item>
     
     <item>
@@ -745,6 +972,24 @@ The Wildlife Forest Garden Wednesday 6th May, 10am BST twitch.</description>
       
       <guid>http://localhost:1313/blog/forest-garden-plan-ofg/</guid>
       <description>The Ornamental Forest Garden (OFG) plan is based on a satellite photo, so it should be more accurate than the Forest Garden One, which is based on a digital Ordnance Survey map.</description>
+    </item>
+    
+    <item>
+      <title>Dead hedge</title>
+      <link>http://localhost:1313/article/dead-hedge/</link>
+      <pubDate>Fri, 19 Apr 2019 14:49:04 +0100</pubDate>
+      
+      <guid>http://localhost:1313/article/dead-hedge/</guid>
+      <description>The benefits of a dead hedge, made from cut branches and foliage are:</description>
+    </item>
+    
+    <item>
+      <title>Emergency</title>
+      <link>http://localhost:1313/article/emergency/</link>
+      <pubDate>Fri, 19 Apr 2019 14:42:46 +0100</pubDate>
+      
+      <guid>http://localhost:1313/article/emergency/</guid>
+      <description>The Climate Emergency and Mass Extinction is caused by living in an unsustainable way.</description>
     </item>
     
     <item>
@@ -817,6 +1062,24 @@ The Wildlife Forest Garden Wednesday 6th May, 10am BST twitch.</description>
       
       <guid>http://localhost:1313/blog/bird-nest-box-plan/</guid>
       <description>The whole point of a forest garden is that you are working with nature to grow edible crops.</description>
+    </item>
+    
+    <item>
+      <title>Nest box</title>
+      <link>http://localhost:1313/article/nest-box/</link>
+      <pubDate>Thu, 21 Mar 2019 20:51:04 +0000</pubDate>
+      
+      <guid>http://localhost:1313/article/nest-box/</guid>
+      <description>The whole point of a forest garden is that you are working with nature to grow edible crops.</description>
+    </item>
+    
+    <item>
+      <title>Spacing</title>
+      <link>http://localhost:1313/article/spacing/</link>
+      <pubDate>Wed, 20 Mar 2019 13:29:51 +0000</pubDate>
+      
+      <guid>http://localhost:1313/article/spacing/</guid>
+      <description>It’s important to leave enough space between trees in the canopy layer, so that there’s enough light coming through to the plants below.</description>
     </item>
     
     <item>
@@ -902,6 +1165,15 @@ The Wildlife Forest Garden Wednesday 6th May, 10am BST twitch.</description>
     </item>
     
     <item>
+      <title>Layers</title>
+      <link>http://localhost:1313/article/layers/</link>
+      <pubDate>Tue, 26 Feb 2019 20:12:03 +0000</pubDate>
+      
+      <guid>http://localhost:1313/article/layers/</guid>
+      <description>@AgroforestryT has a definition of forest gardening and helpfully lists the “seven layers” of a forest garden:</description>
+    </item>
+    
+    <item>
       <title>The seven layers of a forest garden</title>
       <link>http://localhost:1313/blog/seven-layers-forest-garden/</link>
       <pubDate>Tue, 26 Feb 2019 20:12:03 +0000</pubDate>
@@ -917,6 +1189,15 @@ The Wildlife Forest Garden Wednesday 6th May, 10am BST twitch.</description>
       
       <guid>http://localhost:1313/blog/plant-mulch-windbreak/</guid>
       <description>We’ve planted Amelanchier canadensis, Elaeagnus umbellata, Berberis darwinii and Viburnum opulus in the northern double-width windbreak hedge of the Ornamental Forest Garden.</description>
+    </item>
+    
+    <item>
+      <title>Windbreak</title>
+      <link>http://localhost:1313/article/windbreak/</link>
+      <pubDate>Sun, 17 Feb 2019 22:28:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/article/windbreak/</guid>
+      <description>Windbreak hedges are essential for protecting plants in the forest garden.</description>
     </item>
     
     <item>
@@ -1299,6 +1580,15 @@ What a lovely 😊 idea, instead of a traditional Christmas card, a friend from 
     </item>
     
     <item>
+      <title>Definition</title>
+      <link>http://localhost:1313/article/defiinition/</link>
+      <pubDate>Sun, 08 Jul 2018 09:36:44 +0100</pubDate>
+      
+      <guid>http://localhost:1313/article/defiinition/</guid>
+      <description>A forest garden mimics the edge of woodland and works with nature to grow produce sustainably for less work.</description>
+    </item>
+    
+    <item>
       <title>What is a Forest Garden?</title>
       <link>http://localhost:1313/blog/what-is-a-forest-garden/</link>
       <pubDate>Sun, 08 Jul 2018 09:36:44 +0100</pubDate>
@@ -1613,6 +1903,15 @@ Reasons for Biological Recording  Reliable biological data Conservation - knowin
       
       <guid>http://localhost:1313/blog/unglamorous-grunt-work/</guid>
       <description>I’ve just done some calculations for our one acre forest garden.</description>
+    </item>
+    
+    <item>
+      <title>Rootstock</title>
+      <link>http://localhost:1313/article/rootstock/</link>
+      <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/article/rootstock/</guid>
+      <description>A roostock is the well developed root system on which you graft a known fruiting variety.</description>
     </item>
     
     <item>
