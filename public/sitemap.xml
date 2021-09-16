@@ -395,6 +395,9 @@
     <loc>http://localhost:1313/course/</loc>
     <lastmod>2019-08-29T15:38:38+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/design/</loc>
+    <lastmod>2019-08-29T15:38:38+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/design/hedgerows/</loc>
     <lastmod>2019-08-29T15:38:38+06:00</lastmod>
   </url><url>
@@ -411,9 +414,6 @@
     <lastmod>2019-08-29T15:38:38+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/design/rhydgaled/</loc>
-    <lastmod>2019-08-29T15:38:38+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/design/</loc>
     <lastmod>2019-08-29T15:38:38+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/flowers-annual-veg/</loc>
