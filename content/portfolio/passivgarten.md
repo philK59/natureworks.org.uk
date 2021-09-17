@@ -1,7 +1,7 @@
 ---
 title: "Passivgarten"
-date: 2019-08-29T15:38:38+06:00
-draft: false
+date: 2020-02-08T09:00:00
+draft: true
 image: "https://res.cloudinary.com/growdigital/image/upload/w_800/v1631707130/passivgarten/210905-passivgarten-site.jpg"
 company: ""
 client: "Simon Cast"
@@ -10,9 +10,8 @@ location: "Jeżów Sudecki, Poland"
 siteLink: "bit.ly/passivgarten"
 ---
 
-### Consectur in Bibendum
+### Sustainable house & garden
 
-          
 Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt
 explicabo.
 nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur
