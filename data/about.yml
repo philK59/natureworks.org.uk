@@ -1,55 +1,48 @@
 #########################3 history ############################
 history:
   enable : true
-  image: "images/history-image.png"
+  image: "https://res.cloudinary.com/growdigital/image/upload/w_460/v1631868643/blackthorn-7478578144-portrait.jpg"
   subtitle : "History"
-  title : "Give us a task & <br> we’ll implement it"
+  title : "Sustainable gardens<br>in a Climate Emergency"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore agna liquam fina water. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat aute irure dolor in reprehenderit. in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-
   Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium"
-
 
 ################################ Team ###########################
 team:
   enable : true
-  subtitle : "Our Strength"
-  title : "Meet Our Team"
+  subtitle : "Multiskilled"
+  title : "Meet the team"
   team_member:
     # team member loop
-    - name : "Mehedi Titash"
-      image : "images/team/team-member-01.jpg"
-      image_bg : "images/team/team-member-01-bg.jpg"
-      designation : "CEO & Chief"
+    - name : "Jake Rayson"
+      image : "https://res.cloudinary.com/growdigital/image/upload/w_280/v1631867572/jake-designer.jpg"
+      image_bg : "https://res.cloudinary.com/growdigital/image/upload/c_crop,h_600,w_600,q_40/v1544796504/cornus-41229080905.jpg"
+      designation : "Garden designer"
 
     # team member loop
-    - name : "Jarina Khatun"
-      image : "images/team/team-member-02.jpg"
-      image_bg : "images/team/team-member-02-bg.jpg"
-      designation : "Content Writter"
+    - name : "Jake Rayson"
+      image : "https://res.cloudinary.com/growdigital/image/upload/w_280/v1552470457/scythe-square-face.jpg"
+      image_bg : "https://res.cloudinary.com/growdigital/image/upload/c_crop,h_600,w_600,q_40/v1544127824/cornus-flower-41826722782.jpg"
+      designation : "Forest gardener"
 
     # team member loop
-    - name : "Fahad Alam"
-      image : "images/team/team-member-03.jpg"
-      image_bg : "images/team/team-member-03-bg.jpg"
-      designation : "Ui/UX Designer"
-
+    - name : "Jake Rayson"
+      image : "https://res.cloudinary.com/growdigital/image/upload/w_280/v1620071435/jake-muddy-face.jpg"
+      image_bg : "https://res.cloudinary.com/growdigital/image/upload/c_crop,h_600,w_600,q_40/v1606208119/cornus-windbreak-201122.jpg"
+      designation : "Dogsbody"
 
 ############################### philosophy ###########################
 philosophy:
   enable : true
   subtitle : "Philosophy"
-  title : "We design for human, So user first"
-  image : "images/philosophy-image.jpg"
+  title : "Work with nature"
+  image : "https://res.cloudinary.com/growdigital/image/upload/w_540/v1631868879/comfrey-3C1CD837-square.jpg"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore agna liquam fina water. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat aute irure dolor in reprehenderit. in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-
   Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium"
-
 
 ############################ Clients ################################
 clients:
-  enable : true
+  enable : false
   subtitle : "Our Clients"
   title : "They Trust Us"
   clients_logo:

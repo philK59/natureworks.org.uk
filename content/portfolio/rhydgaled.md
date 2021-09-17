@@ -14,6 +14,9 @@ siteLink: "bit.ly/rhydgaled"
           
 Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt
 explicabo.
+
+<img class="img-fluid mb-4" alt="Grass circle illustration" src="https://res.cloudinary.com/growdigital/image/upload/w_800/v1598536251/rhydgaled/grass-circle-illustration.png">
+
 nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur
 magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor
 amet consectetur adipisci velit. lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod

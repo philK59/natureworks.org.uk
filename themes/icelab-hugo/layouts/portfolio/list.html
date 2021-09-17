@@ -12,9 +12,9 @@
         <div class="portfolio-item text-center">
           <a href="{{ .Permalink }}" class="image-holder" data-aos="image-reveal" data-aos-once="true">
             <img src="{{ .Params.Image | absURL }}" class="img-fluid" alt="{{ .Title }}">
+            <h6 class="sm product-name mt-4">{{ .Title }}</h6>
+            <p class="company text-dark">{{ .Params.Category }}</p>
           </a>
-          <h6 class="sm product-name">{{ .Title }}</h6>
-          <p class="company">{{ .Params.Category }}</p>
         </div>
       </div>
       {{ end }}

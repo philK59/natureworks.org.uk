@@ -7,7 +7,7 @@ banner:
   button:
     enable : true
     label : "Portfolio"
-    link : "design"
+    link : "portfolio"
 
 ################### Service #################################
 service:
