@@ -23,6 +23,9 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2021-05-24T13:24:09+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/portfolio/berllan-aur/</loc>
+    <lastmod>2021-05-21T15:38:38+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/guard/</loc>
     <lastmod>2021-04-27T11:41:50+01:00</lastmod>
   </url><url>
@@ -504,9 +507,6 @@
     <lastmod>2019-09-04T16:36:54+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
-    <lastmod>2019-08-29T15:38:38+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/berllan-aur/</loc>
     <lastmod>2019-08-29T15:38:38+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
