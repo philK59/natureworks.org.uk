@@ -12,12 +12,7 @@ siteLink: "bit.ly/penparcau-garden"
 
 ### Forest garden practicality & loose Georgian elegance
           
-Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt
-explicabo.
-nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur
-magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor
-amet consectetur adipisci velit. lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua.
+Set on a gently sloping, West-facing rear garden, 
 
 <img class="img-fluid mb-4" alt="CAD plan showing circular beds" src="https://res.cloudinary.com/growdigital/image/upload/w_800/v1631823816/penparcau/penparcau-sunbowl-cad-169.png">
 

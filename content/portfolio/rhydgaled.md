@@ -32,9 +32,8 @@ consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porr
 dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
 
+>Jake worked through our requirements and helped develop a comprehensive vision of what we wanted. The plans were meticulous and Jake was patient, knowledgeable and client led throughout. It was a pleasure working with him.<br><br>_~ Daniel Richards_ 
 
->Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt labore et dolore magna aliqua. ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
-          
 Consequuntur magni dolores ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia
 dolor sit amet consectetur adipisci velit.lorem ipsum dolor sit amet consectetur adipisicing elit
 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam quis nostrud

@@ -10,12 +10,12 @@ location: "St Dogmaels, Wales"
 siteLink: "bit.ly/rhug-garden"
 ---
 
-### Consectur in Bibendum
+### Low-maintenance holiday garden
           
-Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt
-explicabo.
+The original design 
 
 <img class="img-fluid mb-4" alt="CAD garden design" src="https://res.cloudinary.com/growdigital/image/upload/w_800/v1601031027/rhug/cad-rhug-0.42-patio.png">
+
 nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur
 magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor
 amet consectetur adipisci velit. lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod
