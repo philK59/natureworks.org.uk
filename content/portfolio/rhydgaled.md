@@ -10,10 +10,9 @@ location: "Ceredigion, Wales"
 siteLink: "bit.ly/rhydgaled"
 ---
 
-### Consectur in Bibendum
-          
-Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt
-explicabo.
+### Outline design for a keen forest gardener
+
+
 
 <img class="img-fluid mb-4" alt="Grass circle illustration" src="https://res.cloudinary.com/growdigital/image/upload/w_800/v1598536251/rhydgaled/grass-circle-illustration.png">
 
