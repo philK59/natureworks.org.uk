@@ -31,8 +31,8 @@ service:
       content : "Forest garden livestream first Wednesday of the month, 10am UK time on YouTube, along with all past recordings."
       button:
         enable : true
-        label : "YouTube"
-        link : https://www.youtube.com/c/natureworksgarden
+        label : "Livestream"
+        link : livestream
 
     # Service item loop
     - name : "Forest Garden Courses"
