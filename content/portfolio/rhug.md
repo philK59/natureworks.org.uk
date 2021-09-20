@@ -1,7 +1,7 @@
 ---
 title: "Rhug"
 date: 2019-08-29T15:38:38+06:00
-draft: true
+draft: false
 image: "https://res.cloudinary.com/growdigital/image/upload/w_800/v1631308152/rhug/scabious.jpg"
 company: ""
 client: "Harry & Natalie"
@@ -12,44 +12,33 @@ siteLink: "bit.ly/rhug-garden"
 
 ### Low-maintenance holiday garden
           
-The original design 
+The original design was for curved herb and wild flower beds, providing shelter and screening for a hot tub, barbeque and green roof seating area. A water bowl and semicircular beds on the the balustrade provided additional planting and intimacy to the space.
 
-<img class="img-fluid mb-4" alt="CAD garden design" src="https://res.cloudinary.com/growdigital/image/upload/w_800/v1601031027/rhug/cad-rhug-0.42-patio.png">
+<img class="img-fluid mb-4" alt="CAD garden design" src="https://res.cloudinary.com/growdigital/image/upload/w_800/v1632136620/rhug/rhug-patio-cad-crop.png">
 
-nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur
-magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor
-amet consectetur adipisci velit. lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation
-ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Unfortunately, the builder pulled out of construction. The remaining beds are by the front door, the patio wall and the gable end.
 
-<img class="img-fluid mb-4" alt="Mockup of new wall and planting" src="https://res.cloudinary.com/growdigital/image/upload/w_800/v1587990468/rhug/wall-garden-sketch-beds.png">
+<img class="img-fluid mb-4" alt="Water bowl on a stump in a garden bed" src="https://res.cloudinary.com/growdigital/image/upload/w_800/v1632136826/water-bowl-276125-crop.jpg">
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim est
-laborum. 
+There is no water bowl alas, but I have taken the opportunity to plant up the available beds with a mixture of wild flowers and forest garden plants. These include [Everlasting Pea](https://pfaf.org/User/Plant.aspx?LatinName=Lathyrus+latifolius), [Field Scabious](https://pfaf.org/user/Plant.aspx?LatinName=Knautia+arvensis), [Self Heal](https://pfaf.org/user/plant.aspx?LatinName=Prunella+vulgaris), [Hyssop](https://pfaf.org/USER/Plant.aspx?LatinName=Hyssopus+officinalis) and [Creeping Thyme](https://pfaf.org/user/plant.aspx?latinname=Thymus+serpyllum) by the house. 
 
-<img class="img-fluid mb-4" alt="Sketch of seating area back" src="https://res.cloudinary.com/growdigital/image/upload/w_800/v1588324589/rhug/rhug-green-roof-sketch.jpg">
+<img class="img-fluid mb-4" alt="Pink Everlasting Pea flowers" src="https://res.cloudinary.com/growdigital/image/upload/w_800/v1632137506/everlasting-pea-flower-gesse.jpg">
 
-Sed ut perspiciatis unde omnis iste natus. error sit voluptatem accusantium doloremque laudantium,
-totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta
-sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui
-dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora
-incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+In the gable end bed, there’s a beautiful ['James Galway'](https://www.davidaustinroses.co.uk/products/james-galway-climbing-rose) climbing rose, above [Iberian Comfrey](https://www.rhs.org.uk/Plants/75444/Symphytum-ibericum/Details), [Solomon's Seal](https://pfaf.org/USER/Plant.aspx?LatinName=Polygonatum+odoratum), [Hosta sieboldiana](https://pfaf.org/user/Plant.aspx?LatinName=Hosta+sieboldiana) and a smörgåsbord of other native and ornamental flowers.
 
 <img class="img-fluid mb-4" alt="Pink rose" src="https://res.cloudinary.com/growdigital/image/upload/w_800/v1631308259/rhug/rose-james-galway.jpg">
 
-
->Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt labore et dolore magna aliqua. ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
-          
-Consequuntur magni dolores ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia
-dolor sit amet consectetur adipisci velit.lorem ipsum dolor sit amet consectetur adipisicing elit
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam quis nostrud
-exercitation ullamco laboris nisi ut aliquip commodo consequat. 
+At the foot of the patio wall, there is a curved bed by the track. There are three adjacent climbers leading from the sun into the shade: a Wisteria 'Issai Perfect', a [nativar](https://grownative.org/learn/natives-cultivars-and-nativars/) [honeysuckle 'Belgica'](https://www.rhs.org.uk/plants/52050/lonicera-periclymenum-belgica/details), and another nativar, [Ivy 'Buttercup'](https://www.rhs.org.uk/plants/50160/hedera-helix-buttercup/details).
 
 <img class="img-fluid mb-4" alt="Front wall bed, mulched with bark" src="https://res.cloudinary.com/growdigital/image/upload/w_800/v1631825839/rhug/rhug-front-wall-169.jpg">
 
-Reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur. Excepteur sint occaecat
-cupidatat
-non proident. sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis
-unde omnis iste natus.
+The flowers in the bed include [Beach Strawberry](https://pfaf.org/User/Plant.aspx?LatinName=Fragaria+chiloensis) ground cover, [Chives](https://pfaf.org/user/plant.aspx?LatinName=Allium+schoenoprasum), [Yarrow](https://pfaf.org/user/plant.aspx?LatinName=Achillea+millefolium), white [Foxglove](https://pfaf.org/user/Plant.aspx?LatinName=Digitalis+purpurea), [Ice Plant sedum](https://pfaf.org/user/Plant.aspx?LatinName=Sedum+spectabile) and [Hedge Woundwort](https://pfaf.org/user/Plant.aspx?LatinName=stachys+sylvatica).
+
+<img class="img-fluid mb-4" alt="Close-up of purple flower spike against dark background" src="https://res.cloudinary.com/growdigital/image/upload/w_800/v1632139353/stachys-sylvatica-dark-bg.jpg">
+
+>A low-maintenance mixture of wild flower, ornamental and edibles for a Welsh holiday cottage
+
+For a future stage of landscaping, I designed a low-maintenance forest garden for the back of the house.
+
+<img class="img-fluid mb-4" alt="CAD forest garden design" src="https://res.cloudinary.com/growdigital/image/upload/w_800/v1632136620/rhug/rhug-forest-garden-cad-crop.png">
+
