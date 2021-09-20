@@ -5,10 +5,10 @@
     <loc>http://localhost:1313/design/</loc>
     <lastmod>2021-09-17T09:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2021-09-17T09:00:00+06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/forestgarden/</loc>
+    <lastmod>2021-05-24T13:24:09+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2021-05-24T13:24:09+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/resources/</loc>
@@ -24,6 +24,15 @@
     <lastmod>2021-05-24T13:24:09+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/berllan-aur/</loc>
+    <lastmod>2021-05-21T15:38:38+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/course/spreadsheet/</loc>
+    <lastmod>2021-05-21T15:38:38+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/course/plan/</loc>
+    <lastmod>2021-05-21T15:38:38+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/course/backyard/</loc>
     <lastmod>2021-05-21T15:38:38+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/guard/</loc>
@@ -516,9 +525,6 @@
     <lastmod>2019-09-04T16:36:54+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
-    <lastmod>2019-08-29T15:38:38+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2019-08-29T15:38:38+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/course/</loc>
