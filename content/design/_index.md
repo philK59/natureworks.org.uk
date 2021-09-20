@@ -6,5 +6,5 @@ draft: false
 
 # Forest garden design
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore agna liqua fina water.
+Work with nature.
 
