@@ -1,7 +1,7 @@
 ---
 title: "Rhydgaled"
 date: 2019-08-29T15:38:38+06:00
-draft: true
+draft: false
 image: "https://res.cloudinary.com/growdigital/image/upload/w_800/v1598704927/rhydgaled/rhydgaled-0.21-screenshot.png"
 company: ""
 client: "Daniel & Sara"
@@ -12,33 +12,22 @@ siteLink: "bit.ly/rhydgaled"
 
 ### Outline design for a keen forest gardener
 
+Having a keen forest gardener as a client is actually a boon for a forest garden designer! It means I get to talk about plants and forest gardens for much longer than is normally socially acceptable. I created an outline plan (which is the canopy, windbreak and shrub layers) for Daniel and Sara for a 1 acre site in Ceredigion.
 
+<img class="img-fluid mb-4" alt="CAD garden design" src="https://res.cloudinary.com/growdigital/image/upload/w_800/v1632140301/rhydgaled/rhydgaled-om-cad.png">
+
+The key to the design was to link up the garden with a split level patio and an existing orchard and vegetable bed to the south. The trick was to supply enough detail as planting suggestions without restricting options further down the line.
+
+The planting is dominated by the two beautifully architectural [Stone Pines](https://pfaf.org/User/Plant.aspx?LatinName=Pinus+pinea) (_eventually_ providing a crop of pine nuts), and the [Sweet Chestnut](https://pfaf.org/user/plant.aspx?LatinName=Castanea+sativa) ['Marigoule'](https://www.agroforestry.co.uk/product/chestnut-castanea-marigoule/). I squeezed in a pollinating partner ['Belle Epine'](https://www.agroforestry.co.uk/product/chestnut-castanea-sativa-belle-epine-2/) into the hedge! 
+
+Nestled within the trees is levelled grass circle for exercise.
 
 <img class="img-fluid mb-4" alt="Grass circle illustration" src="https://res.cloudinary.com/growdigital/image/upload/w_800/v1598536251/rhydgaled/grass-circle-illustration.png">
 
-nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur
-magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor
-amet consectetur adipisci velit. lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation
-ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The field slopes gently upward to the northern boundary, a substantial [Autumn Olive](https://pfaf.org/user/Plant.aspx?LatinName=Elaeagnus+umbellata) and [Sea Buckthorn](https://pfaf.org/user/Plant.aspx?LatinName=Hippophae+rhamnoides) windbreak hedge. Shelter is provided for the [Date Plums](https://pfaf.org/user/plant.aspx?LatinName=Diospyros+lotus) and [Asian Pear](https://pfaf.org/USER/Plant.aspx?LatinName=Pyrus+pyrifolia+culta) by another productive and substantial windbreak consisting of [Aronia x prunifolia](https://pfaf.org/user/Plant.aspx?LatinName=Aronia+prunifolia) ['Viking'](https://pfaf.org/user/Plant.aspx?LatinName=Aronia+prunifolia). 
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim est
-laborum. Sed ut perspiciatis unde omnis iste natus. error sit voluptatem accusantium doloremque laudantium,
-totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta
-sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui
-dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora
-incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+<img class="img-fluid mb-4" alt="Close-up of Aronia blossom" src="https://res.cloudinary.com/growdigital/image/upload/w_800/v1632141292/aronia-AEFC4AEB-crop.jpg">
 
 >Jake worked through our requirements and helped develop a comprehensive vision of what we wanted. The plans were meticulous and Jake was patient, knowledgeable and client led throughout. It was a pleasure working with him.<br><br>_~ Daniel Richards_ 
 
-Consequuntur magni dolores ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia
-dolor sit amet consectetur adipisci velit.lorem ipsum dolor sit amet consectetur adipisicing elit
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam quis nostrud
-exercitation ullamco laboris nisi ut aliquip commodo consequat. 
-
-Reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur. Excepteur sint occaecat
-cupidatat
-non proident. sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis
-unde omnis iste natus.
+The area to the South of the property is filled with pollarded trees for leaf crops ([Small-leaved Lime](https://pfaf.org/user/plant.aspx?LatinName=Tilia+cordata), [Chinese Cedar](https://pfaf.org/user/plant.aspx?latinname=Toona+sinensis), [White Mulberry](https://pfaf.org/user/Plant.aspx?LatinName=Morus+alba)) plus plum and cherry trees to supplement the well-established apple trees by the picnic area. Protected by a [dead hedge](https://www.forestgarden.wales/dead-hedge), this area adjoins the annual and perennial vegetable plots, and the polytunnel
