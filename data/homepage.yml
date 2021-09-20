@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "Garden<br>Design"
-  content : "Wildlife &amp; forest garden design by Jake Rayson. Grow edible crops &amp; wildlife-friendly native flowers with nature."
+  content : "Wildlife &amp; forest garden design by Jake Rayson. Grow edible crops &amp; wildlife-friendly native flowers with nature.<br><br>Apologies for teething problems with the website! Working to get the pages back, thank you for your patience 🙂"
   bg_image: "https://res.cloudinary.com/growdigital/image/upload/w_1400,q_40/v1543954134/quince-blossom-41405332295.jpg"
   button:
     enable : true
@@ -28,10 +28,10 @@ service:
     # Service item loop
     - name : "Forest Garden Livestream"
       icon : "https://res.cloudinary.com/growdigital/image/upload/w_55/v1630868761/icon-watering-plants.png"
-      content : "A forest garden livestream every Wednesday 10am UK time on twitch.tv/natureworks. All past recordings on my YouTube channel."
+      content : "Forest garden livestream first Wednesday of the month, 10am UK time on YouTube, along with all past recordings."
       button:
         enable : true
-        label : "Past livestreams"
+        label : "YouTube"
         link : https://www.youtube.com/c/natureworksgarden
 
     # Service item loop
