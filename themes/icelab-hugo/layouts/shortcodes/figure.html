@@ -1,16 +1,11 @@
 <!-- figure -->
-<figure {{ with .Get "class" }}class="{{.}}"{{ end }}>
-    {{ with .Get "link"}}<a href="{{.}}">{{ end }}
-        <img class="img-fluid mb-4" src="{{ .Site.Params.cloudinary }}f_auto,q_70,w_800/{{ substr (.Get "src") 52 }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} />
-    {{ if .Get "link"}}</a>{{ end }}
-    {{ if or (or (.Get "title") (.Get "caption")) (.Get "attr")}}
+<figure>
+    <img class="img-fluid {{ if not (.Get "caption") }} {{ "mb-4" }} {{ end }}" src="{{ .Site.Params.cloudinary }}f_auto,q_70,w_736/{{ substr (.Get "src") 52 }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} />
+    {{ if .Get "caption" }}
     <figcaption>
-        {{ if or (.Get "caption") (.Get "attr")}}<p>
+        <p class="font-italic mt-2">
         {{ .Get "caption" }}
-        {{ with .Get "attrlink"}}<em><a href="{{.}}"> {{ end }}
-            {{ .Get "attr" }}
-        {{ if .Get "attrlink"}}</a></em> {{ end }}
-        </p> {{ end }}
+        </p>
     </figcaption>
     {{ end }}
 </figure>
