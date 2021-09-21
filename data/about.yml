@@ -28,7 +28,7 @@ team:
     - name : "Jake Rayson"
       image : "https://res.cloudinary.com/growdigital/image/upload/w_280/v1620071435/jake-muddy-face.jpg"
       image_bg : "https://res.cloudinary.com/growdigital/image/upload/c_crop,h_600,w_600,q_40/v1606208119/cornus-windbreak-201122.jpg"
-      designation : "Dogsbody"
+      designation : "Landscaper"
 
 ############################### philosophy ###########################
 philosophy:
@@ -36,7 +36,7 @@ philosophy:
   subtitle : "Philosophy"
   title : "Work with nature"
   image : "https://res.cloudinary.com/growdigital/image/upload/w_540/v1631868879/comfrey-3C1CD837-square.jpg"
-  content : "The idea of working with nature to grow edible crops is at the very heart of my philosophy. We have the tools and the wisdom to create sustainable gardens and agriculture. I see my role as promoting these ideas, and bringing together the ornamental, wildlife and edible crop aspects of gardening."
+  content : "<p>Working with nature to grow edible crops is at the very heart of my philosophy. How we live needs to be sustainable, and an integral part of that is our gardens and our agriculture.</p><p>I see my role as promoting these ideas, and bringing together the ornamental, wildlife and edible crop aspects of gardening.</p>"
 
 ############################ Clients ################################
 clients:
