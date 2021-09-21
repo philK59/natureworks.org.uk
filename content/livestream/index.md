@@ -2,9 +2,17 @@
 title: "Livestream"
 date: 2019-08-29T15:38:38+06:00
 draft: false
+
 ---
 
-# Forest garden livestream
+## Forest garden livestream
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore agna liqua fina water.
+<img class="img-fluid mb-4 mt-2" alt="Screenshot of livestream" src="https://res.cloudinary.com/growdigital/image/upload/w_800/v1632130851/natureworks-youtube-channel.jpg">
 
+The monthly structured livestream is the **first Wednesday of the month** on my YouTube channel [youtube.com/c/NatureWorksGarden](https://www.youtube.com/c/NatureWorksGarden)
+
+I would like to livestream from outside on YouTube but I need 1,000 followers to use the mobile app, so [please subscribe to my channel](https://bit.ly/subscribe-natureworksgarden) if you can!
+
+In the meantime, I will try to livestream from the forest garden every weekday using my existing Twitch channel [twitch.tv/natureworks](https://www.twitch.tv/natureworks/)
+
+To catch up on past livestreams, look on my [Livestream Playlist](https://bit.ly/forest-garden-livestream).

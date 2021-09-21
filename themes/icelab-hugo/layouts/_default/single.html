@@ -12,7 +12,7 @@
         <!-- Sidebar -->
         <aside class="work-single-sidebar bg-gray" data-aos="fade-up" data-aos-duration="500" data-aos-once="true">
           <h5>Quick links</h5>
-          {{ range .Params.Anchor }}
+          {{ range .Params.Link }}
           <li><a href="#{{ lower . }}">{{ . }}</a></li>
           {{ end }}
           <a href="mailto:hello@natureworks.org.uk" class="btn btn-primary mt-4">Email Jake</a>
