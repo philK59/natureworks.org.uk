@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>Backyard Forest</title>
+      <link>http://localhost:1313/course/backyard/</link>
+      <pubDate>Fri, 21 May 2021 15:38:38 +0000</pubDate>
+      
+      <guid>http://localhost:1313/course/backyard/</guid>
+      <description>Complete online forest garden course</description>
+    </item>
+    
+    <item>
       <title>Berllan Aur</title>
       <link>http://localhost:1313/portfolio/berllan-aur/</link>
       <pubDate>Fri, 21 May 2021 15:38:38 +0000</pubDate>
@@ -35,30 +44,21 @@
     </item>
     
     <item>
-      <title>Forest Garden Spreadsheet</title>
-      <link>http://localhost:1313/course/spreadsheet/</link>
-      <pubDate>Fri, 21 May 2021 15:38:38 +0000</pubDate>
-      
-      <guid>http://localhost:1313/course/spreadsheet/</guid>
-      <description>Community forest gardens for eco-homes Berllan Aur (‘Golden Orchard’ in English) is a 15 dwelling eco-home development on the outskirts of Boncath, Pembrokeshire.</description>
-    </item>
-    
-    <item>
       <title>Plan a Backyard Forest</title>
       <link>http://localhost:1313/course/plan/</link>
       <pubDate>Fri, 21 May 2021 15:38:38 +0000</pubDate>
       
       <guid>http://localhost:1313/course/plan/</guid>
-      <description>Community forest gardens for eco-homes Berllan Aur (‘Golden Orchard’ in English) is a 15 dwelling eco-home development on the outskirts of Boncath, Pembrokeshire.</description>
+      <description>Free forest garden mini-course</description>
     </item>
     
     <item>
-      <title>The Backyard Forest</title>
-      <link>http://localhost:1313/course/backyard/</link>
+      <title>The Forest Garden Spreadsheet</title>
+      <link>http://localhost:1313/course/spreadsheet/</link>
       <pubDate>Fri, 21 May 2021 15:38:38 +0000</pubDate>
       
-      <guid>http://localhost:1313/course/backyard/</guid>
-      <description>Community forest gardens for eco-homes Berllan Aur (‘Golden Orchard’ in English) is a 15 dwelling eco-home development on the outskirts of Boncath, Pembrokeshire.</description>
+      <guid>http://localhost:1313/course/spreadsheet/</guid>
+      <description>Free downloadable forest garden plants spreadsheet</description>
     </item>
     
     <item>
