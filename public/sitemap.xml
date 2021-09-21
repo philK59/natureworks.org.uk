@@ -2,14 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/design/</loc>
-    <lastmod>2021-09-17T09:00:00+06:00</lastmod>
+    <loc>http://localhost:1313/blog/a-blog-post/</loc>
+    <lastmod>2021-09-21T20:43:22+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2021-05-24T13:24:09+01:00</lastmod>
+    <lastmod>2021-09-21T20:43:22+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2021-05-24T13:24:09+01:00</lastmod>
+    <lastmod>2021-09-21T20:43:22+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2021-09-21T20:43:22+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/design/</loc>
+    <lastmod>2021-09-17T09:00:00+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/resources/</loc>
     <lastmod>2021-05-24T13:24:09+01:00</lastmod>
@@ -18,9 +24,6 @@
     <lastmod>2021-05-24T13:24:09+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/school/</loc>
-    <lastmod>2021-05-24T13:24:09+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2021-05-24T13:24:09+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/course/backyard/</loc>
