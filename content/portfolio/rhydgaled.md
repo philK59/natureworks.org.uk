@@ -5,7 +5,7 @@ draft: false
 image: "https://res.cloudinary.com/growdigital/image/upload/w_800/v1598704927/rhydgaled/rhydgaled-0.21-screenshot.png"
 company: ""
 client: "Daniel & Sara"
-category: "One acre forest garden for Welsh cottage"
+summary: "One acre forest garden for Welsh cottage"
 location: "Ceredigion, Wales"
 siteLink: "bit.ly/rhydgaled"
 ---

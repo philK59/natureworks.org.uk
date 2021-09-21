@@ -11,7 +11,7 @@
         <div class="portfolio-item text-center">
           <a href="{{ .Permalink }}" class="image-holder">
             <h3 class="sm product-name mt-4">{{ .Title }}</h3>
-            <h6 class="text-dark mb-4">{{ .Params.Category }}</h6>
+            <h6 class="text-dark mb-4">{{ .Params.Summary }}</h6>
             <img src="{{ .Params.Image | absURL }}" class="img-fluid" alt="{{ .Title }}">
           </a>
         </div>

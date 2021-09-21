@@ -5,7 +5,7 @@ draft: false
 image: "https://res.cloudinary.com/growdigital/image/upload/w_800/v1631803029/penparcau/sunbowl-169.jpg"
 company: ""
 client: "Annette & Barry"
-category: "Half acre ornamental forest garden for Welsh farmhouse"
+summary: "Half acre ornamental forest garden for Welsh farmhouse"
 location: "Carmathenshire, Wales"
 siteLink: "bit.ly/penparcau-garden"
 ---

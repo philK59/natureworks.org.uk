@@ -5,7 +5,7 @@ draft: false
 image: "https://res.cloudinary.com/growdigital/image/upload/w_800/v1631707130/passivgarten/210905-passivgarten-site.jpg"
 company: ""
 client: "Simon Cast"
-category: "One hectare forest garden for Polish eco-house"
+summary: "One hectare forest garden for Polish eco-house"
 location: "Jeżów Sudecki, Poland"
 siteLink: "bit.ly/passivgarten"
 ---
