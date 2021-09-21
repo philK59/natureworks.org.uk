@@ -8,7 +8,7 @@
       {{ range .Data.Pages }}
       <div class="col-md-6">
         <div class="portfolio-item text-center">
-          <a href="{{ .Permalink }}" class="image-holder" data-aos="image-reveal" data-aos-once="true">
+          <a href="{{ .Permalink }}" class="image-holder">
             <h3 class="sm product-name mt-4">{{ .Title }}</h3>
             <h6 class=" text-dark mb-4">{{ .Params.Summary }}</h4>
             <img src="{{ .Params.Image | absURL }}" class="img-fluid" alt="{{ .Title }}">
