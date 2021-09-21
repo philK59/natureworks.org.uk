@@ -16,7 +16,7 @@ Berllan Aur (‘Golden Orchard’ in English) is a 15 dwelling eco-home developm
 
 The developer [Western Solar](https://westernsolar.org.uk/) has created near-[Passivhaus](https://en.wikipedia.org/wiki/Passive_house) standard [Ty Solar](https://tysolar.co.uk/) houses, powered by solar panels and batteries.
 
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1623764306/berllanaur/berllan-aur-from-s4c.jpg" alt="Aerial photo of eco-house development" caption="S4C photo of Berllan Aur" >}}
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1623764306/berllanaur/berllan-aur-from-s4c.jpg" alt="Aerial photo of eco-house development" caption="S4C aerial photo of Berllan Aur" >}}
 
 <img class="img-fluid mb-4" src="https://res.cloudinary.com/growdigital/image/upload/w_800/v1623764306/berllanaur/berllan-aur-from-s4c.jpg">
 

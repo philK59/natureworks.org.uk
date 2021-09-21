@@ -3,8 +3,8 @@
     <img class="img-fluid {{ if not (.Get "caption") }} {{ "mb-4" }} {{ end }}" src="{{ .Site.Params.cloudinary }}f_auto,q_70,w_736/{{ substr (.Get "src") 52 }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} />
     {{ if .Get "caption" }}
     <figcaption>
-        <p class="font-italic mt-2">
-        {{ .Get "caption" }}
+        <p class="mt-2">
+          <em><small>{{ .Get "caption" }}</small></em>
         </p>
     </figcaption>
     {{ end }}
