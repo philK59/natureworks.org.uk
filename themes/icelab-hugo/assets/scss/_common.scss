@@ -51,16 +51,6 @@ body{
     }
 }
 
-::-webkit-scrollbar {
-    width: 5px;
-    background: $white;
-}
-
-::-webkit-scrollbar-thumb {
-    border-radius: 20px;
-    background: $primary-color;
-}
-
 // Headroomjs Styles
 .headroom {
     position: fixed;
