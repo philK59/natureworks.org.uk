@@ -13,7 +13,6 @@ features:
 - "Video captions 🐝 😊"
 - "Access to Telegram group 😲 🎉"
 price: 29.99
-
 link: https://gumroad.com/l/kltGD
 ---
 
