@@ -17,6 +17,9 @@
     <loc>http://localhost:1313/design/</loc>
     <lastmod>2021-09-17T09:00:00+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/portfolio/penparcau/</loc>
+    <lastmod>2021-09-14T15:38:38+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/resources/</loc>
     <lastmod>2021-05-24T13:24:09+01:00</lastmod>
   </url><url>
@@ -534,9 +537,6 @@
     <lastmod>2019-08-29T15:38:38+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/livestream/</loc>
-    <lastmod>2019-08-29T15:38:38+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/penparcau/</loc>
     <lastmod>2019-08-29T15:38:38+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/</loc>
