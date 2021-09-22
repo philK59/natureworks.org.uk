@@ -42,8 +42,8 @@
       <div class="col-12">
         <!-- section title -->
         <div class="section-title">
-          <h6 class="sm"><span data-aos="text-reveal" data-aos-once="true">{{ .subtitle | markdownify }}</span></h6>
-          <h1><span data-aos="text-reveal" data-aos-once="true">{{ .title | markdownify }}</span></h1>
+          <h6 class="sm">{{ .subtitle | markdownify }}</h6>
+          <h1>{{ .title | markdownify }}</h1>
         </div>
       </div>
       {{ range .service_item }}
@@ -58,7 +58,7 @@
             <p>{{ .content | markdownify }}</p>
             {{ if .button.enable }}
             {{ with .button }}
-            <a href="{{ .link | absURL }}" class="btn btn-primary" data-aos="fade-up" data-aos-delay="200">{{ .label }}</a>
+            <a href="{{ .link | absURL }}" class="btn btn-primary">{{ .label }}</a>
             {{ end }}
             {{ end }}
           </div>
@@ -82,8 +82,8 @@
       {{ with .Site.Data.homepage.portfolio }}
       <div class="col-12 text-center">
         <div class="section-title">
-          <h6 class="sm"><span data-aos="text-reveal" data-aos-once="true">{{ .subtitle | markdownify }}</span></h6>
-          <h1><span data-aos="text-reveal" data-aos-once="true">{{ .title | markdownify }}</span></h1>
+          <h6 class="sm">{{ .subtitle | markdownify }}</h6>
+          <h1>{{ .title | markdownify }}</h1>
         </div>
       </div>
       {{ end }}
@@ -92,7 +92,7 @@
       {{ range first 6 $work }}
       <div class="col-md-6">
         <div class="portfolio-item text-center">
-          <a href="{{ .Permalink }}" class="image-holder" data-aos="image-reveal" data-aos-once="true">
+          <a href="{{ .Permalink }}" class="image-holder">
             <img src="{{ .Params.Image | absURL }}" class="img-fluid" alt="{{ .Title }}">
           </a>
           <h6 class="sm product-name">{{ .Title }}</h6>
@@ -118,8 +118,8 @@
       <div class="col-lg-3 ml-lg-auto">
         <!-- section title -->
         <div class="section-title">
-          <h6 class="sm"><span data-aos="text-reveal" data-aos-once="true">{{ .subtitle | markdownify }}</span></h6>
-          <h1><span data-aos="text-reveal" data-aos-once="true">{{ .title | markdownify }}</span></h1>
+          <h6 class="sm">{{ .subtitle | markdownify }}</h6>
+          <h1>{{ .title | markdownify }}</h1>
         </div>
       </div>
       <div class="col-lg-7">
