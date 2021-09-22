@@ -3,7 +3,7 @@ title: "Green Room"
 date: 2019-11-21T09:00:00
 draft: false
 image: "https://res.cloudinary.com/growdigital/image/upload/w_800/v1570786836/greenroom-0.16-display.jpg"
-company: ""
+imageAlt: "CAD design overlaid on 3D satellite photo"
 client: "Matt & Christine"
 summary: "Ornamental forest garden for North London, Victorian terrace"
 location: "Bruce Grove, London, England"
