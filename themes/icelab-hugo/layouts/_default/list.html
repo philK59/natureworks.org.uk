@@ -8,11 +8,14 @@
       {{ range .Data.Pages }}
       <div class="col-md-6">
         <div class="portfolio-item text-center">
-          <a href="{{ .Permalink }}" class="image-holder" data-aos="image-reveal" data-aos-once="true">
-            <img src="{{ .Params.Image | absURL }}" class="img-fluid" alt="{{ .Title }}">
+          <a href="{{ .Permalink }}">
+            {{ if .Params.images }}
+            <img
+              src="{{ .Site.Params.cloudinary }}f_auto,q_60,w_120/{{ strings.TrimLeft .Site.Params.cloudinary (index .Params.images 0) }}"
+              class="img-fluid" alt="{{ (index .Params.imageAlt 0) }}">
+            {{ end }}
+            <h6 class="sm product-name">{{ .Title }}</h6>
           </a>
-          <h6 class="sm product-name">{{ .Title }}</h6>
-          <p class="company">{{ .Params.Category }}</p>
         </div>
       </div>
       {{ end }}
