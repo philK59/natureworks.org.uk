@@ -2,7 +2,7 @@
 title: "Berllan Aur"
 date: 2021-05-21T15:38:38
 draft: false
-image: "https://res.cloudinary.com/growdigital/image/upload/w_800/v1623771051/berllanaur/belinda-house-210615.jpg"
+image: "https://res.cloudinary.com/growdigital/image/upload/v1623771051/berllanaur/belinda-house-210615.jpg"
 company: "Western Solar"
 client: "Glen Peters"
 summary: "Forest garden landscaping for eco-homes development"

@@ -9,7 +9,9 @@
       <div class="col-lg-8">
         <div class="work-single-image">
           <!-- Work Single Image -->
-          <img class="img-fluid w-100" src="{{ .Params.Image | absURL }}" alt="{{ .Title }}">
+          <img class="img-fluid w-100" src="{{ .Site.Params.cloudinary }}f_auto,q_70,w_736/{{ substr (.Params.Image) 52 }}" alt="{{ .Title }}">
+
+          
         </div>
         <!-- work single Content -->
         <div class="work-single-content">
