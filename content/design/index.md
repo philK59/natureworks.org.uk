@@ -2,10 +2,13 @@
 title: "Design"
 date: 2021-09-17T09:00:00+06:00
 draft: false
-link:
-  - Tools
-  - Costing
-  - Definition
+links:
+  - title: Tools
+    url: /design#tools
+  - title: Costing
+    url: /design#costing
+  - title: What is a forest garden?
+    url: /design#what-is-a-forest-garden
 ---
 
 ### Local & remote garden design service
@@ -49,9 +52,11 @@ In total, it takes about 1-2 weeks to create a garden design, with good client c
 
 To help with a rough estimate of design and landscaping a 1 acre forest garden, I gave a talk in February 2021: [natureworks.org.uk/talks/costing](https://www.natureworks.org.uk/talks/costing/)
 
-### Definition
+### What is a forest garden?
 
 <img class="img-fluid mb-4 mt-2" alt="Wooded forest garden" src="https://res.cloudinary.com/growdigital/image/upload/w_800/v1574024543/art-national-geographic-video.jpg">
+
+#### Definition
 
 A forest garden works with nature to grow edible crops. It is sustainable, low maintenance and wildlife friendly and emulates the woodland edge using edible perennial and ground cover plants. Essentially, it is an **edible ecosystem**.
 
