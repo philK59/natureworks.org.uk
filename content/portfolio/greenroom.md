@@ -5,7 +5,7 @@ draft: false
 image: "https://res.cloudinary.com/growdigital/image/upload/w_800/v1570786836/greenroom-0.16-display.jpg"
 company: ""
 client: "Matt & Christine"
-summary: "Ornamental forest garden for Victorian, North London terrace"
+summary: "Ornamental forest garden for North London, Victorian terrace"
 location: "Bruce Grove, London, England"
 siteLink: "bit.ly/greenroom129"
 ---

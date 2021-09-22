@@ -13,13 +13,13 @@ links:
 
 ### Local & remote garden design service
 
-<img class="img-fluid mb-4" alt="" src="https://res.cloudinary.com/growdigital/image/upload/v1631882160/hedgerows/hedgerows-from-east-beds-mar21.jpg">
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1631882160/hedgerows/hedgerows-from-east-beds-mar21.jpg" alt="Panorama of new beds in back garden" caption="Hedgerows design project for English village forest garden" >}}
 
-I create [forest garden](#what-is-a-forest-garden) designs that are sustainable, low maintenance and wildlife friendly. I can also implement and advise on garden landscaping.
+I create [forest garden](#what-is-a-forest-garden) designs that are sustainable, low maintenance and wildlife friendly. I can also implement and advise on garden landscaping. See my [portfolio](/portfolio/).
 
 Central to the design is **working with nature**, working with what is already on-site and figuring what plants will thrive in the specific conditions. I prefer to use locally sourced materials and avoid costly groundworks where possible.
 
-<img class="img-fluid mb-4" alt="CAD garden design" src="https://res.cloudinary.com/growdigital/image/upload/w_800/v1632232362/greenroom-plainplan-hue-83.png">
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1632232362/greenroom-plainplan-hue-83.png" alt="CAD garden design" caption="Ornamental forest garden design for North London, Victorian terrace" >}}
 
 There are three stages in the process: 
 
@@ -31,7 +31,7 @@ I have a standard set of tools that I use for client communication.
 
 ### Tools
 
-<img class="img-fluid mb-4 mt-2" alt="Screenshot of Pinterest" src="https://res.cloudinary.com/growdigital/image/upload/w_800/v1632231917/pinterest-screenshot-83.jpg">
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1632231917/pinterest-screenshot-83.jpg" alt="Screenshot of Pinterest" caption="Pinterest is a useful tool for collecting & sharing ideas" >}}
 
 1. All notes are shared onlne using [Simplenote](https://simplenote.com/).
 2. To survey the land, I use satellite photos for a general outline, and then take measurements physically.
@@ -54,11 +54,11 @@ To help with a rough estimate of design and landscaping a 1 acre forest garden, 
 
 ### What is a forest garden?
 
-<img class="img-fluid mb-4 mt-2" alt="Wooded forest garden" src="https://res.cloudinary.com/growdigital/image/upload/w_800/v1574024543/art-national-geographic-video.jpg">
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1574024543/art-national-geographic-video.jpg" alt="Wooded forest garden" caption="Still from Thomas Regnault’s short film of Martin Crawford’s forest garden" >}}
 
 #### Definition
 
-A forest garden works with nature to grow edible crops. It is sustainable, low maintenance and wildlife friendly and emulates the woodland edge using edible perennial and ground cover plants. Essentially, it is an **edible ecosystem**.
+A forest garden works with nature to grow edible crops. It is sustainable, low maintenance and wildlife friendly and emulates the woodland edge using edible perennial and ground cover plants. Essentially, it is an **edible ecosystem**. 
 
 #### Characteristics
 
@@ -75,4 +75,6 @@ A forest garden works with nature to grow edible crops. It is sustainable, low m
 3. **Ground cover** — ultimately permanent living cover
 4. **Nutrients** — supplied by garden system plants
 
+See Thomas Regnault’s short film of Martin Crawford’s garden for a more visual introduction:
 
+{{< youtube Q_m_0UPOzuI >}}
