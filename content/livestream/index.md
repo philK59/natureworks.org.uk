@@ -15,7 +15,7 @@ links:
 
 ## Forest garden livestream
 
-<img class="img-fluid mb-4 mt-2" alt="Screenshot of livestream" src="https://res.cloudinary.com/growdigital/image/upload/w_800/v1632130851/natureworks-youtube-channel.jpg">
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1632130851/natureworks-youtube-channel.jpg" alt="Screenshot of Nature Works’ YouTube channel page" caption="Nature Works channel on YouTube" >}}
 
 The monthly structured livestream is the **first Wednesday of the month** on my YouTube channel [youtube.com/c/NatureWorksGarden](https://www.youtube.com/c/NatureWorksGarden)
 
