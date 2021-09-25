@@ -6,12 +6,12 @@ menu:
     weight: 10
 draft: false
 links:
-  - title: Tools
-    url: /design#tools
-  - title: Costing
-    url: /design#costing
-  - title: What is a forest garden?
-    url: /design#what-is-a-forest-garden
+  - title: Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/Main_Page
+  - title: Creative Commons
+    url: https://creativecommons.org/
+  - title: Attribution-NonCommercial-ShareAlike license
+    url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ---
 
 ### Photos
