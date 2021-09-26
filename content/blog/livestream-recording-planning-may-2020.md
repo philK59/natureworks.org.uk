@@ -13,7 +13,7 @@ imageAlt:
 - Screenshot of text on top of CAD plan
 imageCap:
 - The best bit about forest garden planning is taking cool screenshots of your CAD plans 😉
-draft: false
+draft: true
 ---
 
 Today’s Lockdown Livestream went really well (from my perspective at least, no 4 year olds bursting in, announcing their bowel movements to the nation). We also had a Zoom Q&A with about 3-4 participants. This went really well, pleasantly surprised at the usefulness and ease with which people settled in to discussing forest gardens. So, this will be a regular feature from now on, a Zoom Q&A at the end of each Lockdown Livestream. 

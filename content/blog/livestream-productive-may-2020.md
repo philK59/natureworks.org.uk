@@ -12,7 +12,7 @@ imageAlt:
 - Hand cradling red, strawberry-like fruit on the tree
 imageCap:
 - Fruit of Cornus kousa (I think!)
-draft: false
+draft: true
 ---
 
 Thank you to everyone who watched today’s shambolic livestream. All links are in the slideshow, press `p` to see the notes:

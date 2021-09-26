@@ -13,7 +13,7 @@ imageAlt:
 - Screenshot of writing on top of CAD plan
 imageCap:
 - Super condensed forest garden planning knowledge, in 30 minutes flat
-draft: false
+draft: true
 ---
 
 Last week I ran a [seminar on Forest Garden Planning](https://youtu.be/zSHvqy5Zvng) for the [National Forest Gardening Scheme](https://nationalforestgardening.org), organised and curated by [Hannah Gardinder & Paul Pivcevic](https://nationalforestgardening.org/our-board).

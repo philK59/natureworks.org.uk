@@ -8,15 +8,6 @@
     <language>en-gb</language>
     <lastBuildDate>Tue, 21 Sep 2021 20:43:22 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A Blog Post</title>
-      <link>http://localhost:1313/blog/a-blog-post/</link>
-      <pubDate>Tue, 21 Sep 2021 20:43:22 +0100</pubDate>
-      
-      <guid>http://localhost:1313/blog/a-blog-post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Credits</title>
       <link>http://localhost:1313/credits/</link>
       <pubDate>Fri, 17 Sep 2021 09:00:00 +0600</pubDate>
@@ -113,24 +104,6 @@
       
       <guid>http://localhost:1313/photos/</guid>
       <description>Email Jake the plant photo details!  Make sure to add the plant ID from the checklist https://bit.</description>
-    </item>
-    
-    <item>
-      <title>Livestream — Forest Garden Gallery</title>
-      <link>http://localhost:1313/blog/livestream-201118-gallery/</link>
-      <pubDate>Sun, 15 Nov 2020 17:43:05 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/livestream-201118-gallery/</guid>
-      <description>Forest Garden Livestream Wednesday 18th November, 10am GMT When I started out with forest gardening, I wish I’d had a decent photograph of an Autumn Olive to hand, as I planted my windbreak hedge far too close to the path!</description>
-    </item>
-    
-    <item>
-      <title>Livestream — Planting Ground Cover</title>
-      <link>http://localhost:1313/blog/livestream-20111-ground-cover/</link>
-      <pubDate>Mon, 09 Nov 2020 12:37:09 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/livestream-20111-ground-cover/</guid>
-      <description>Forest Garden Livestream Wednesday 11th November, 10am GMT On this Wednesday’s livestream, I’ll be out in the forest garden in the new perennial veg area, planting out some ground cover plants.</description>
     </item>
     
     <item>
@@ -329,42 +302,6 @@
       
       <guid>http://localhost:1313/blog/rakesh-design-course/</guid>
       <description>These are the details that Rakesh passed on to me, please do share 🙂💚🌳</description>
-    </item>
-    
-    <item>
-      <title>Forest Garden Plants, Lockdown Livestream</title>
-      <link>http://localhost:1313/blog/livestream-forest-garden-plants-may-2020/</link>
-      <pubDate>Sat, 23 May 2020 09:44:52 +0100</pubDate>
-      
-      <guid>http://localhost:1313/blog/livestream-forest-garden-plants-may-2020/</guid>
-      <description>This week, I’ll be out in the forest gardens, looking at my favourite plants, from nut trees to unusual fruits, plus windbreaks and ground covers.</description>
-    </item>
-    
-    <item>
-      <title>Recording of Forest Garden Planning Lockdown Livestream</title>
-      <link>http://localhost:1313/blog/livestream-recording-planning-may-2020/</link>
-      <pubDate>Wed, 20 May 2020 13:26:47 +0100</pubDate>
-      
-      <guid>http://localhost:1313/blog/livestream-recording-planning-may-2020/</guid>
-      <description>Today’s Lockdown Livestream went really well (from my perspective at least, no 4 year olds bursting in, announcing their bowel movements to the nation).</description>
-    </item>
-    
-    <item>
-      <title>Next Lockdown Livestream is Planning</title>
-      <link>http://localhost:1313/blog/livestream-planning-may-2020/</link>
-      <pubDate>Tue, 19 May 2020 21:16:20 +0100</pubDate>
-      
-      <guid>http://localhost:1313/blog/livestream-planning-may-2020/</guid>
-      <description>Last week I ran a seminar on Forest Garden Planning for the National Forest Gardening Scheme, organised and curated by Hannah Gardinder &amp;amp; Paul Pivcevic.</description>
-    </item>
-    
-    <item>
-      <title>Livestream Productive May 2020</title>
-      <link>http://localhost:1313/blog/livestream-productive-may-2020/</link>
-      <pubDate>Wed, 13 May 2020 13:22:10 +0100</pubDate>
-      
-      <guid>http://localhost:1313/blog/livestream-productive-may-2020/</guid>
-      <description>Thank you to everyone who watched today’s shambolic livestream. All links are in the slideshow, press p to see the notes:</description>
     </item>
     
     <item>

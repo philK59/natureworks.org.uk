@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/a-blog-post/</loc>
-    <lastmod>2021-09-21T20:43:22+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/forestgarden/</loc>
     <lastmod>2021-09-21T20:43:22+01:00</lastmod>
   </url><url>
@@ -74,13 +71,7 @@
     <loc>http://localhost:1313/tags/livestream/</loc>
     <lastmod>2020-11-15T17:43:05+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/livestream-201118-gallery/</loc>
-    <lastmod>2020-11-15T17:43:05+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/cover/</loc>
-    <lastmod>2020-11-09T12:37:09+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/livestream-20111-ground-cover/</loc>
     <lastmod>2020-11-09T12:37:09+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/newsletter/</loc>
@@ -200,29 +191,17 @@
     <loc>http://localhost:1313/tags/rakesh/</loc>
     <lastmod>2020-05-23T10:04:44+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/livestream-forest-garden-plants-may-2020/</loc>
-    <lastmod>2020-05-23T09:44:52+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/lockdown/</loc>
     <lastmod>2020-05-23T09:44:52+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/recording/</loc>
     <lastmod>2020-05-20T13:26:47+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/livestream-recording-planning-may-2020/</loc>
-    <lastmod>2020-05-20T13:26:47+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/livestream-planning-may-2020/</loc>
-    <lastmod>2020-05-19T21:16:20+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/seminar/</loc>
     <lastmod>2020-05-19T21:16:20+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/zoom/</loc>
     <lastmod>2020-05-19T21:16:20+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/livestream-productive-may-2020/</loc>
-    <lastmod>2020-05-13T13:22:10+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/productive/</loc>
     <lastmod>2020-05-13T13:22:10+01:00</lastmod>

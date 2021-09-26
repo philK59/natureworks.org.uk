@@ -12,7 +12,7 @@ imageAlt:
 - White bundles of hawthorn flowers, text on top
 imageCap:
 - A hawthorn is a wonderful plant, one of my all-time favourites
-draft: false
+draft: true
 ---
 
 This week, I’ll be out in the forest gardens, looking at my favourite plants, from nut trees to unusual fruits, plus windbreaks and ground covers. If there’s a particular plant you’d like to see, email me <hello@forestgarden.wales> and I will include it in the show.
