@@ -1,0 +1,26 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+<section class="section portfolio">
+  <div class="container">
+    <ul class=".list-unstyled">
+    {{ range .Pages }}
+      <li class="media mb-2">
+          {{ if .Params.images }}
+            <a href="{{ .Permalink }}">
+              <img class="mr-3" src="{{ .Site.Params.cloudinary }}f_auto,q_60,w_120/{{ strings.TrimLeft .Site.Params.cloudinary (index .Params.images 0) }}" class="img-fluid" alt="{{ (index .Params.imageAlt 0) }}">
+            </a>
+          {{ end }}
+          <div class="media-body">
+            <h2 class="h6"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <p>{{ .Description }}</p>
+          </div>
+        </a>
+      </li>
+    {{ end }}
+    </ul>
+   </div>
+</section>
+
+{{ end }}
