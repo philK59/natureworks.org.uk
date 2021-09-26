@@ -3,7 +3,7 @@ title: "Welcome to Forest Garden Wales website!"
 date: 2017-12-15
 description: "Forest Garden Wales has a website"
 images: 
-- ""
+- "https://res.cloudinary.com/growdigital/image/upload/v1592425148/fgw-logo-transparent.png"
 imageAlt: 
 - ""
 imageCap:

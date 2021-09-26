@@ -4,16 +4,18 @@
 
 <section class="section portfolio">
   <div class="container">
-    <ul>
+    <ul class=".list-unstyled">
     {{ range .Data.Pages }}
-      <li>
-        <a href="{{ .Permalink }}">
+      <li class="media mb-2">
           {{ if .Params.images }}
-            <img src="{{ .Site.Params.cloudinary }}f_auto,q_60,w_120/{{ strings.TrimLeft .Site.Params.cloudinary (index .Params.images 0) }}" class="img-fluid" alt="{{ (index .Params.imageAlt 0) }}">
+            <a href="{{ .Permalink }}">
+              <img class="mr-3" src="{{ .Site.Params.cloudinary }}f_auto,q_60,w_120/{{ strings.TrimLeft .Site.Params.cloudinary (index .Params.images 0) }}" class="img-fluid" alt="{{ (index .Params.imageAlt 0) }}">
+            </a>
           {{ end }}
-          <h6 class="sm product-name">{{ .Title }}</h6>
-          <p>{{ .Date.Format "Mon 2 Jan 2006" }}</p>
-          <p>{{ .Description }}</p>
+          <div class="media-body">
+            <h2 class="h6"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <p><time datetime="{{ .Date }}"><em>{{ .Date.Format "Mon 2 Jan 2006" }}</em></time> — {{ .Description }}</p>
+          </div>
         </a>
       </li>
     {{ end }}
