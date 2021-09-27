@@ -26,9 +26,7 @@ It is accessible online as a sortable Google Spreadsheet at:
 
 Here are instructions on how to use it:
 
-<div class="mb-4">
 {{< youtube vo-IJlHf5hM >}}
-</div>
 
 Or you can download it from here in Microsoft Excel, OpenDocument and HTML formats.
 
