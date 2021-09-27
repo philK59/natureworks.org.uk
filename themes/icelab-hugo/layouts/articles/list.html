@@ -5,7 +5,7 @@
 <section class="section portfolio">
   <div class="container">
     <ul class=".list-unstyled">
-    {{ range .Pages }}
+    {{ range .Pages.ByTitle }}
       <li class="media mb-2">
           {{ if .Params.images }}
             <a href="{{ .Permalink }}">
