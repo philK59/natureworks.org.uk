@@ -1,15 +1,15 @@
 ---
 title: Conduct
 date: 2020-10-08T10:56:36+01:00
-description: Code of Conduct for all Forest Garden Wales courses and social media groups
+description: Code of Conduct for all Nature Works courses and social media groups
 tags: 
 - ForestGarden
 images: 
-- 
+- https://res.cloudinary.com/growdigital/image/upload/v1592425148/fgw-logo-transparent.png
 imageAlt:
-- 
+- Nature Works logo
 imageCap:
-- 
+- A diversity in layers, a diversity in ideas, a diversity in people
 gallery: false
 draft: false
 ---
@@ -18,11 +18,11 @@ draft: false
 
 ## 1. Purpose
 
-A primary goal of [Forest Garden Wales](https://www.forestgarden.wales/) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of [Nature Works](https://www.natureworks.org.uk/) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in [Forest Garden Wales](https://www.forestgarden.wales/) to help us create safe and positive experiences for everyone.
+We invite all those who participate in [Nature Works](https://www.natureworks.org.uk/) to help us create safe and positive experiences for everyone.
 
 ## 2. Open Culture Citizenship
 
@@ -69,7 +69,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 6. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible <support@forestgarden.wales>.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible <hello@natureworks.org.uk>.
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
@@ -85,7 +85,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 9. Contact info
 
-Jake Rayson, <support@forestgarden.wales>
+Jake Rayson, <support@natureworks.org.uk>
 
 ## 10. License and attribution
 
@@ -93,7 +93,7 @@ The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stump
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
-_Revision 2.4. Posted 8 October 2020, adapted for Forest Garden Wales_
+_Revision 2.4. Posted 8 October 2020, adapted for Nature Works_
 
 _Revision 2.3. Posted 6 March 2017._
 
