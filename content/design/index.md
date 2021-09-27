@@ -2,13 +2,19 @@
 title: "Design"
 date: 2021-09-17T09:00:00+06:00
 draft: false
+images: 
+- https://res.cloudinary.com/growdigital/image/upload/v1631882160/hedgerows/hedgerows-from-east-beds-mar21.jpg
+imageAlt:
+- Panorama of new beds in back garden
+imageCap: 
+- Hedgerows design project for English village forest garden
 links:
-  - title: Tools
-    url: /design#tools
-  - title: Costing
-    url: /design#costing
-  - title: What is a forest garden?
-    url: /design#what-is-a-forest-garden
+- title: Tools
+  url: /design#tools
+- title: Costing
+  url: /design#costing
+- title: What is a forest garden?
+  url: /design#what-is-a-forest-garden
 ---
 
 ### Local & remote garden design service
