@@ -6,14 +6,18 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8">
+        {{ if .Params.images }}
         <figure>
           <img class="img-fluid w-100" src="{{ .Site.Params.cloudinary }}f_auto,q_70,w_736/{{ substr (index .Params.images 0) 51 }}" alt="{{ (index .Params.imageAlt 0) }}">
+          {{ if .Params.imageCap }}
           <figcaption>
             <p class="mt-2">
               <em><small>{{ (index .Params.imageCap 0) }}</small></em>
             </p>
-          </figcaption>            
+          </figcaption>
+          {{ end }}  
         </figure>
+        {{ end }}
         <h3 class="h5 mb-2">{{ index .Params.description }}</h3>
         <h4 class="h6 mb-3"><time datetime="{{ .Date }}"><em>{{ .Date.Format "Monday 2 January 2006" }}</em></time></h4>
         {{ .Content }}
