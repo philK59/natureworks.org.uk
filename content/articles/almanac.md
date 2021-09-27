@@ -11,7 +11,7 @@ imageAlt:
 imageCap:
 - Comfrey, always grow lots of comfrey…
 gallery: false
-draft: false
+draft: true
 ---
 
 Jobs for the forest garden year, a work in progress 🙂

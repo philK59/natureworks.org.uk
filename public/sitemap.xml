@@ -2,23 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/forestgarden/</loc>
-    <lastmod>2021-09-21T20:43:22+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2021-09-21T20:43:22+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2021-09-21T20:43:22+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/credits/</loc>
     <lastmod>2021-09-17T09:00:00+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/design/</loc>
     <lastmod>2021-09-17T09:00:00+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2021-09-14T15:38:38+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/portfolio/penparcau/</loc>
     <lastmod>2021-09-14T15:38:38+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/forestgarden/</loc>
+    <lastmod>2021-05-24T13:24:09+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/resources/</loc>
     <lastmod>2021-05-24T13:24:09+01:00</lastmod>
@@ -29,7 +26,7 @@
     <loc>http://localhost:1313/school/</loc>
     <lastmod>2021-05-24T13:24:09+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/articles/school/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2021-05-24T13:24:09+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/course/backyard/</loc>
@@ -50,9 +47,6 @@
     <loc>http://localhost:1313/guard/</loc>
     <lastmod>2021-04-27T11:41:50+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/articles/guard/</loc>
-    <lastmod>2021-04-27T11:41:50+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/hedge/</loc>
     <lastmod>2020-12-31T11:30:17+00:00</lastmod>
   </url><url>
@@ -71,55 +65,25 @@
     <loc>http://localhost:1313/photos/</loc>
     <lastmod>2020-11-19T14:24:24+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/articles/photos/</loc>
-    <lastmod>2020-11-19T14:24:24+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/gallery/</loc>
-    <lastmod>2020-11-15T17:43:05+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/livestream/</loc>
-    <lastmod>2020-11-15T17:43:05+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/cover/</loc>
-    <lastmod>2020-11-09T12:37:09+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/newsletter/</loc>
-    <lastmod>2020-11-09T12:37:09+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/reservoir/</loc>
-    <lastmod>2020-10-10T15:39:26+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/articles/reservoir/</loc>
     <lastmod>2020-10-10T15:39:26+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/conduct/</loc>
     <lastmod>2020-10-08T10:56:36+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/articles/conduct/</loc>
-    <lastmod>2020-10-08T10:56:36+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/creativecommons/</loc>
+    <lastmod>2020-10-07T11:44:06+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gallery/</loc>
     <lastmod>2020-10-07T11:44:06+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/gallery/</loc>
     <lastmod>2020-10-07T11:44:06+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/articles/gallery/</loc>
-    <lastmod>2020-10-07T11:44:06+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/opensource/</loc>
     <lastmod>2020-10-07T11:44:06+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/almanac/</loc>
-    <lastmod>2020-10-06T20:15:49+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/articles/almanac/</loc>
-    <lastmod>2020-10-06T20:15:49+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/walkthroughs/</loc>
-    <lastmod>2020-10-06T19:22:27+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/articles/walkthroughs/</loc>
     <lastmod>2020-10-06T19:22:27+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/data/</loc>
@@ -134,9 +98,6 @@
     <loc>http://localhost:1313/spreadsheets/</loc>
     <lastmod>2020-10-06T09:21:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/articles/spreadsheets/</loc>
-    <lastmod>2020-10-06T09:21:10+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/perennialveg/</loc>
     <lastmod>2020-09-09T11:51:27+01:00</lastmod>
   </url><url>
@@ -147,6 +108,9 @@
     <lastmod>2020-07-15T12:21:03+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/free/</loc>
+    <lastmod>2020-07-15T12:21:03+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/livestream/</loc>
     <lastmod>2020-07-15T12:21:03+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/course-livestream-06-canopy/</loc>
@@ -173,9 +137,6 @@
     <loc>http://localhost:1313/protection/</loc>
     <lastmod>2020-06-20T08:48:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/articles/protection/</loc>
-    <lastmod>2020-06-20T08:48:10+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/course-livestream-02-plan/</loc>
     <lastmod>2020-06-17T11:21:03+01:00</lastmod>
   </url><url>
@@ -183,9 +144,6 @@
     <lastmod>2020-06-15T12:55:40+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/comfrey/</loc>
-    <lastmod>2020-06-15T12:55:40+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/articles/comfrey/</loc>
     <lastmod>2020-06-15T12:55:40+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/course-livestream-01-intro/</loc>
@@ -224,28 +182,10 @@
     <loc>http://localhost:1313/tags/rakesh/</loc>
     <lastmod>2020-05-23T10:04:44+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/lockdown/</loc>
-    <lastmod>2020-05-23T09:44:52+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/recording/</loc>
-    <lastmod>2020-05-20T13:26:47+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/seminar/</loc>
-    <lastmod>2020-05-19T21:16:20+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/zoom/</loc>
-    <lastmod>2020-05-19T21:16:20+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/productive/</loc>
-    <lastmod>2020-05-13T13:22:10+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/survey/</loc>
     <lastmod>2020-05-11T21:11:42+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/survey/</loc>
-    <lastmod>2020-05-11T21:11:42+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/articles/survey/</loc>
     <lastmod>2020-05-11T21:11:42+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/lockdown-livestream-wildlife-may-2020/</loc>
@@ -287,9 +227,6 @@
     <loc>http://localhost:1313/diversity/</loc>
     <lastmod>2020-04-13T21:19:03+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/articles/diversity/</loc>
-    <lastmod>2020-04-13T21:19:03+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/nitrogen/</loc>
     <lastmod>2020-04-13T21:19:03+01:00</lastmod>
   </url><url>
@@ -297,9 +234,6 @@
     <lastmod>2020-04-13T21:19:03+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nutrients/</loc>
-    <lastmod>2020-04-13T21:19:03+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/articles/nutrients/</loc>
     <lastmod>2020-04-13T21:19:03+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/positive-action/</loc>
@@ -350,13 +284,7 @@
     <loc>http://localhost:1313/estimate/</loc>
     <lastmod>2020-02-04T13:32:37+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/articles/estimate/</loc>
-    <lastmod>2020-02-04T13:32:37+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/nurse-tree/</loc>
-    <lastmod>2020-01-29T18:29:04+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/articles/nurse-tree/</loc>
     <lastmod>2020-01-29T18:29:04+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/hedgerows/</loc>
@@ -366,9 +294,6 @@
     <lastmod>2020-01-19T14:40:06+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/wildflower/</loc>
-    <lastmod>2020-01-19T14:40:06+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/articles/wildflower/</loc>
     <lastmod>2020-01-19T14:40:06+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/meadow/</loc>
@@ -392,31 +317,19 @@
     <loc>http://localhost:1313/blog/wild-orchids-of-wales/</loc>
     <lastmod>2020-01-12T20:30:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/article/</loc>
-    <lastmod>2020-01-11T20:14:46+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/articles/</loc>
     <lastmod>2020-01-11T20:14:46+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hostas/</loc>
     <lastmod>2020-01-08T14:34:33+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/articles/hostas/</loc>
-    <lastmod>2020-01-08T14:34:33+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/chop-n-drop/</loc>
-    <lastmod>2020-01-07T10:30:45+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/articles/chop-n-drop/</loc>
     <lastmod>2020-01-07T10:30:45+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/mulch/</loc>
     <lastmod>2020-01-07T10:30:45+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recommended/</loc>
-    <lastmod>2020-01-06T11:54:52+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/articles/recommended/</loc>
     <lastmod>2020-01-06T11:54:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/reference/</loc>
@@ -426,9 +339,6 @@
     <lastmod>2020-01-06T11:22:50+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/top-10-perennial-veg/</loc>
-    <lastmod>2020-01-06T11:22:50+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/articles/top-10-perennial-veg/</loc>
     <lastmod>2020-01-06T11:22:50+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/planting-post-wild-world/</loc>
@@ -605,6 +515,9 @@
     <loc>http://localhost:1313/blog/biological-recording-workshop/</loc>
     <lastmod>2019-07-17T22:14:06+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/recording/</loc>
+    <lastmod>2019-07-17T22:14:06+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/massextinction/</loc>
     <lastmod>2019-07-13T16:17:07+01:00</lastmod>
   </url><url>
@@ -617,9 +530,6 @@
     <loc>http://localhost:1313/clay-lined-pond/</loc>
     <lastmod>2019-06-26T15:57:25+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/articles/clay-lined-pond/</loc>
-    <lastmod>2019-06-26T15:57:25+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/pond/</loc>
     <lastmod>2019-06-26T15:57:25+01:00</lastmod>
   </url><url>
@@ -627,9 +537,6 @@
     <lastmod>2019-06-26T15:57:25+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/wildlife-features/</loc>
-    <lastmod>2019-06-26T09:37:02+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/articles/wildlife-features/</loc>
     <lastmod>2019-06-26T09:37:02+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/wildlife-garden-checklist/</loc>
@@ -659,9 +566,6 @@
     <loc>http://localhost:1313/perennial-veg/</loc>
     <lastmod>2019-05-16T12:39:12+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/articles/perennial-veg-alternatives/</loc>
-    <lastmod>2019-05-16T12:39:12+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/deadhedge/</loc>
     <lastmod>2019-05-15T13:29:58+01:00</lastmod>
   </url><url>
@@ -671,9 +575,6 @@
     <loc>http://localhost:1313/label/</loc>
     <lastmod>2019-05-12T22:28:17+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/articles/label/</loc>
-    <lastmod>2019-05-12T22:28:17+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/recycled-ever-expanding-plant-labels/</loc>
     <lastmod>2019-05-12T22:28:17+01:00</lastmod>
   </url><url>
@@ -681,9 +582,6 @@
     <lastmod>2019-05-12T22:28:17+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ground-cover/</loc>
-    <lastmod>2019-04-30T20:10:44+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/articles/ground-cover/</loc>
     <lastmod>2019-04-30T20:10:44+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/groundcover/</loc>
@@ -704,9 +602,6 @@
     <loc>http://localhost:1313/dead-hedge/</loc>
     <lastmod>2019-04-19T14:49:04+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/articles/dead-hedge/</loc>
-    <lastmod>2019-04-19T14:49:04+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/climateaction/</loc>
     <lastmod>2019-04-19T14:42:46+01:00</lastmod>
   </url><url>
@@ -714,9 +609,6 @@
     <lastmod>2019-04-19T14:42:46+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/emergency/</loc>
-    <lastmod>2019-04-19T14:42:46+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/articles/emergency/</loc>
     <lastmod>2019-04-19T14:42:46+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/forest-garden-good-for-climate-change/</loc>
@@ -764,9 +656,6 @@
     <loc>http://localhost:1313/nest-box/</loc>
     <lastmod>2019-03-21T20:51:04+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/articles/nest-box/</loc>
-    <lastmod>2019-03-21T20:51:04+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/nestbox/</loc>
     <lastmod>2019-03-21T20:51:04+00:00</lastmod>
   </url><url>
@@ -777,9 +666,6 @@
     <lastmod>2019-03-20T13:29:51+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/spacing/</loc>
-    <lastmod>2019-03-20T13:29:51+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/articles/spacing/</loc>
     <lastmod>2019-03-20T13:29:51+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tree-spacing-forest-garden/</loc>
@@ -830,9 +716,6 @@
     <loc>http://localhost:1313/layers/</loc>
     <lastmod>2019-02-26T20:12:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/articles/layers/</loc>
-    <lastmod>2019-02-26T20:12:03+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/seven-layers-forest-garden/</loc>
     <lastmod>2019-02-26T20:12:03+00:00</lastmod>
   </url><url>
@@ -840,9 +723,6 @@
     <lastmod>2019-02-17T22:28:20+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/windbreak/</loc>
-    <lastmod>2019-02-17T22:28:20+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/articles/windbreak/</loc>
     <lastmod>2019-02-17T22:28:20+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/joy-of-planning/</loc>
@@ -1037,9 +917,6 @@
     <loc>http://localhost:1313/definition/</loc>
     <lastmod>2018-07-08T09:36:44+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/articles/defiinition/</loc>
-    <lastmod>2018-07-08T09:36:44+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/definition/</loc>
     <lastmod>2018-07-08T09:36:44+01:00</lastmod>
   </url><url>
@@ -1173,9 +1050,6 @@
     <lastmod>2017-12-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/rootstock/</loc>
-    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/articles/rootstock/</loc>
     <lastmod>2017-12-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/planting-pruning-workshop-notes/</loc>

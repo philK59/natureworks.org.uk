@@ -6,11 +6,11 @@
     <description>Recent content in Tags on Nature Works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 21 Sep 2021 20:43:22 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 May 2021 13:24:09 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ForestGarden</title>
       <link>http://localhost:1313/tags/forestgarden/</link>
-      <pubDate>Tue, 21 Sep 2021 20:43:22 +0100</pubDate>
+      <pubDate>Mon, 24 May 2021 13:24:09 +0100</pubDate>
       
       <guid>http://localhost:1313/tags/forestgarden/</guid>
       <description></description>
@@ -80,47 +80,20 @@
     </item>
     
     <item>
-      <title>Gallery</title>
-      <link>http://localhost:1313/tags/gallery/</link>
-      <pubDate>Sun, 15 Nov 2020 17:43:05 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/gallery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Livestream</title>
-      <link>http://localhost:1313/tags/livestream/</link>
-      <pubDate>Sun, 15 Nov 2020 17:43:05 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/livestream/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cover</title>
-      <link>http://localhost:1313/tags/cover/</link>
-      <pubDate>Mon, 09 Nov 2020 12:37:09 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/cover/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Newsletter</title>
-      <link>http://localhost:1313/tags/newsletter/</link>
-      <pubDate>Mon, 09 Nov 2020 12:37:09 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/newsletter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>CreativeCommons</title>
       <link>http://localhost:1313/tags/creativecommons/</link>
       <pubDate>Wed, 07 Oct 2020 11:44:06 +0100</pubDate>
       
       <guid>http://localhost:1313/tags/creativecommons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>http://localhost:1313/tags/gallery/</link>
+      <pubDate>Wed, 07 Oct 2020 11:44:06 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/gallery/</guid>
       <description></description>
     </item>
     
@@ -184,6 +157,15 @@
       <pubDate>Wed, 15 Jul 2020 12:21:03 +0100</pubDate>
       
       <guid>http://localhost:1313/tags/free/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Livestream</title>
+      <link>http://localhost:1313/tags/livestream/</link>
+      <pubDate>Wed, 15 Jul 2020 12:21:03 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/livestream/</guid>
       <description></description>
     </item>
     
@@ -256,51 +238,6 @@
       <pubDate>Sat, 23 May 2020 10:04:44 +0100</pubDate>
       
       <guid>http://localhost:1313/tags/rakesh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lockdown</title>
-      <link>http://localhost:1313/tags/lockdown/</link>
-      <pubDate>Sat, 23 May 2020 09:44:52 +0100</pubDate>
-      
-      <guid>http://localhost:1313/tags/lockdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recording</title>
-      <link>http://localhost:1313/tags/recording/</link>
-      <pubDate>Wed, 20 May 2020 13:26:47 +0100</pubDate>
-      
-      <guid>http://localhost:1313/tags/recording/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seminar</title>
-      <link>http://localhost:1313/tags/seminar/</link>
-      <pubDate>Tue, 19 May 2020 21:16:20 +0100</pubDate>
-      
-      <guid>http://localhost:1313/tags/seminar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zoom</title>
-      <link>http://localhost:1313/tags/zoom/</link>
-      <pubDate>Tue, 19 May 2020 21:16:20 +0100</pubDate>
-      
-      <guid>http://localhost:1313/tags/zoom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Productive</title>
-      <link>http://localhost:1313/tags/productive/</link>
-      <pubDate>Wed, 13 May 2020 13:22:10 +0100</pubDate>
-      
-      <guid>http://localhost:1313/tags/productive/</guid>
       <description></description>
     </item>
     
@@ -742,6 +679,15 @@
       <pubDate>Wed, 18 Sep 2019 20:25:57 +0100</pubDate>
       
       <guid>http://localhost:1313/tags/peatfree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recording</title>
+      <link>http://localhost:1313/tags/recording/</link>
+      <pubDate>Wed, 17 Jul 2019 22:14:06 +0100</pubDate>
+      
+      <guid>http://localhost:1313/tags/recording/</guid>
       <description></description>
     </item>
     
