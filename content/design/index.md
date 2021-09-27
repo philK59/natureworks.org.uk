@@ -1,5 +1,6 @@
 ---
 title: "Design"
+subhead: "Local & remote garden design service"
 date: 2021-09-17T09:00:00+06:00
 draft: false
 images: 
@@ -16,10 +17,6 @@ links:
 - title: What is a forest garden?
   url: /design#what-is-a-forest-garden
 ---
-
-### Local & remote garden design service
-
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1631882160/hedgerows/hedgerows-from-east-beds-mar21.jpg" alt="Panorama of new beds in back garden" caption="Hedgerows design project for English village forest garden" >}}
 
 I create [forest garden](#what-is-a-forest-garden) designs that are sustainable, low maintenance and wildlife friendly. I can also implement and advise on garden landscaping. See my [portfolio](/portfolio/).
 

@@ -1,21 +1,24 @@
 ---
 title: "Livestream"
+subhead: "Forest garden livestream"
 date: 2019-08-29T15:38:38+06:00
 draft: false
+images: 
+- https://res.cloudinary.com/growdigital/image/upload/v1632130851/natureworks-youtube-channel.jpg
+imageAlt:
+- Screenshot of Nature Works
+imageCap: 
+- Nature Works channel on YouTube
 links:
-  - title: YouTube channel
-    url: https://www.youtube.com/c/NatureWorksGarden
-  - title: Subscribe to channel 👆🏾
-    url: https://bit.ly/subscribe-natureworksgarden
-  - title: Past livestreams playlist
-    url: https://bit.ly/forest-garden-livestream
-  - title: Twitch channel
-    url: https://www.twitch.tv/natureworks/
+- title: YouTube channel
+  url: https://www.youtube.com/c/NatureWorksGarden
+- title: Subscribe to channel 👆🏾
+  url: https://bit.ly/subscribe-natureworksgarden
+- title: Past livestreams playlist
+  url: https://bit.ly/forest-garden-livestream
+- title: Twitch channel
+  url: https://www.twitch.tv/natureworks/
 ---
-
-## Forest garden livestream
-
-{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1632130851/natureworks-youtube-channel.jpg" alt="Screenshot of Nature Works’ YouTube channel page" caption="Nature Works channel on YouTube" >}}
 
 The monthly structured livestream is the **first Wednesday of the month** on my YouTube channel [youtube.com/c/NatureWorksGarden](https://www.youtube.com/c/NatureWorksGarden)
 
