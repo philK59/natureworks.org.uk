@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8">
+        <figure>
+          <img class="img-fluid w-100" src="{{ .Site.Params.cloudinary }}f_auto,q_70,w_736/{{ substr (index .Params.images 0) 52 }}" alt="{{ (index .Params.imageAlt 0) }}">
+          <figcaption>
+            <p class="mt-2">
+              <em><small>{{ (index .Params.imageCap 0) }}</small></em>
+            </p>
+          </figcaption>            
+        </figure>
+        <h3 class="h5 mb-3">{{ index .Params.description }}</h3>
+        {{ .Content }}
+      </div>
+      <div class="col-lg-4">
+        <!-- Sidebar -->
+        <aside class="work-single-sidebar bg-gray">
+          <h5>Links</h5>
+          <ul>
+            <li><a href="/blog/">Blog posts</a></li>
+            <li><a href="/article/">Articles</a></li>
+          </ul>
+          <a href="mailto:hello@natureworks.org.uk" class="btn btn-primary">Email Jake</a>
+        </aside>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
