@@ -50,7 +50,6 @@ home = "Home"
 # Meta data
 description = "Wildlife & Forest Garden Design"
 author = "Jake Rayson"
-cloudinary = "https://res.cloudinary.com/growdigital/image/upload/"
 # footer content
 footer_content = "Email: hello@natureworks.org.uk Phone: 07802 535 321"
 
