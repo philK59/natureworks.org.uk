@@ -14,20 +14,18 @@
             </p>
           </figcaption>            
         </figure>
-        <h3 class="h5 mb-3">{{ index .Params.description }}</h3>
+        <h3 class="h5 mb-2">{{ index .Params.description }}</h3>
+        <h4 class="h6 mb-3"><time datetime="{{ .Date }}"><em>{{ .Date.Format "Monday 2 January 2006" }}</em></time></h4>
         {{ .Content }}
       </div>
       <div class="col-lg-4">
         <!-- Sidebar -->
         <aside class="work-single-sidebar bg-gray">
-          <h5>Quick links</h5>
-          {{ with .Params.Links }}
+          <h5>Links</h5>
           <ul>
-            {{ range . }}
-            <li><a href="{{ .url }}">{{ .title }}</a></li>
-            {{ end }}
+            <li><a href="/blog/">Blog posts</a></li>
+            <li><a href="/article/">Articles</a></li>
           </ul>
-          {{ end }}
           <a href="mailto:hello@natureworks.org.uk" class="btn btn-primary">Email Jake</a>
         </aside>
       </div>
