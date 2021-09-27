@@ -16,7 +16,7 @@ imageCap:
 draft: false
 ---
 
-On part of the eco-homes project I’m landscaping, there’s a 2m high clay and shale bank. Unfortunately, much of the hedge was cut back, leaving some Hawthorn, Hazel and Blackthorn. I have replanted the hedge, with a mix of mostly natives. As it’s a northern hedge, the height of the plants isn’t really an issue. 
+On part of the [eco-homes project](/portfolio/berllan-aur/) I’m landscaping, there’s a 2m high clay and shale bank. Unfortunately, much of the hedge was cut back, leaving some Hawthorn, Hazel and Blackthorn. I have replanted the hedge, with a mix of mostly natives. As it’s a northern hedge, the height of the plants isn’t really an issue. 
 
 In a forest garden, grow native plants where you can, as they’ve co-evolved with the wildlife and generally support more species, particularly invertebrates.
 
