@@ -9,7 +9,7 @@
       <li class="media mb-2">
           {{ if .Params.images }}
             <a href="{{ .Permalink }}">
-              <img class="mr-3" src="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_60,w_120/{{ strings.TrimLeft .Site.Params.cloudinary (index .Params.images 0) }}" class="img-fluid" alt="{{ (index .Params.imageAlt 0) }}">
+              <img class="mr-3" src="{{ .Site.Params.cloudinary }}f_auto,q_60,w_120/{{ strings.TrimLeft .Site.Params.cloudinary (index .Params.images 0) }}" class="img-fluid" alt="{{ (index .Params.imageAlt 0) }}">
             </a>
           {{ end }}
           <div class="media-body">
