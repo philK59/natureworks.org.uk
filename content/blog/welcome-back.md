@@ -1,7 +1,7 @@
 ---
 title: Welcome back
 date: 2021-09-28T19:35:25+01:00
-description: 
+description: Jake has a new website and the blog is back up and running!
 tags: 
 - ForestGarden
 images: 
