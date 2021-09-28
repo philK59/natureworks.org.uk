@@ -30,6 +30,7 @@ Thumbs.db
 # The Build Directory #
 #######################
 public
+!public/_redirects
 
 # Logs
 logs
