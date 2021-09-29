@@ -5,6 +5,12 @@ menu:
   secondary:
     weight: 10
 draft: false
+images: 
+- https://res.cloudinary.com/growdigital/image/upload/v1631113586/elephant-garlic-flower-crop.jpg
+imageAlt:
+- Purple allium flower
+imageCap: 
+- Elephant Garlic flower by Daniel Pacurici
 links:
   - title: Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/Main_Page
