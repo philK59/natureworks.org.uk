@@ -51,6 +51,9 @@ home = "Home"
 description = "Wildlife & Forest Garden Design"
 author = "Jake Rayson"
 cloudinary = "https://res.cloudinary.com/growdigital/image/upload/"
+images = [ "https://res.cloudinary.com/growdigital/image/upload/w_1240,q_60/v1544219005/valeriana-41717565655-169.jpg" ]
+imageAlt = [ "Hoverfly on small pinkish flowers" ]
+
 # footer content
 footer_content = "Email: hello@natureworks.org.uk Phone: 07802 535 321"
 
