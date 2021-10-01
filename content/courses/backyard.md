@@ -13,13 +13,11 @@ features:
 - "Open slideshow license 😎 👍🏾"
 - "Video captions 🐝 😊"
 - "Access to Telegram group 😲 🎉"
-price: 29.99
+price: 49.99
 link: https://gumroad.com/l/kltGD
 ---
 
 ### Creating a forest garden from scratch
-
-_RRP **£74.99**, special offer until Thursday 30th September **£29.99**. Prices ex.VAT._
 
 Course slideshows & notes always available at [natureworks.org.uk/backyard](https://www.natureworks.org.uk/backyard/)
 
@@ -40,3 +38,12 @@ The full course outline, with links to slideshows:
 6. [Canopy layer](/backyard/canopy)
 7. [Ground Preparation](/backyard/prep)
 8. [Shrubs & Ground Cover](/backyard/shrubs)
+
+## Testimonials 
+
+> “Very informative, organised presentation and easy to follow!”<br>~ _Kartini Clapham, June 2021_
+
+> “I would highly recommend this course for anyone interested in wildlife or permaculture”<br>~ _Courtney Saunders, June 2021_
+
+> “So much interesting information here. Am filling my notebook rapidly!”<br>~ _Louisa Ferrante, March 2021_
+
