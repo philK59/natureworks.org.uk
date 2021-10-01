@@ -19,8 +19,7 @@ draft: false
 
 87% of the UK [identify as White](https://www.ethnicity-facts-figures.service.gov.uk). In the UK horticulture industry, the figure is 99%<sup><small>*</small></sup>.
 
-To redress the balance, every month I have 10 free places on my [online forest garden course](https://www.udemy.com/course/the-backyard-forest/?referralCode=CE87DB2FC1CA1B28807F
-) for Black, Asian & Minority Ethnic ([BAME](https://en.wikipedia.org/wiki/Classification_of_ethnicity_in_the_United_Kingdom)) people, students and the unwaged. Simply email or message me, no proof required, all done on trust.
+To redress the balance, every few months I have 10 free places on my [online forest garden course](https://www.natureworks.org.uk/courses/backyard/) for people from diverse ethnic backgrounds. Simply email or message me, no proof required, all done on trust.
 
 This is called [positive action](https://en.wikipedia.org/wiki/Positive_action), encouraging members of protected groups (eg ethnicity) to overcome systemic disadvantage. The vast majority of feedback has been positive but a couple of individuals on a Facebook group have called it racist and illegal. It is neither. Positive action is legal, equitable and to be encouraged.
 
