@@ -22,6 +22,6 @@ imageCap:
 - Grass will creep into a wood chip path unless there’s a barrier
 
 gallery: false
-draft: false
+draft: true
 ---
 
