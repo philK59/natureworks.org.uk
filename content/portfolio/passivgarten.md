@@ -2,8 +2,10 @@
 title: "Passivgarten"
 date: 2020-02-08T09:00:00
 draft: false
-image: "https://res.cloudinary.com/growdigital/image/upload/w_800/v1631707130/passivgarten/210905-passivgarten-site.jpg"
-imageAlt: "Field with conifers and mountains in the distance"
+images: 
+- "https://res.cloudinary.com/growdigital/image/upload/v1631707130/passivgarten/210905-passivgarten-site.jpg"
+imageAlt: 
+- "Field with conifers and mountains in the distance"
 client: "Simon Cast"
 summary: "One hectare forest garden for Polish eco-house"
 location: "Jeżów Sudecki, Poland"

@@ -2,8 +2,10 @@
 title: "Penparcau"
 date: 2021-09-14T15:38:38+06:00
 draft: false
-image: "https://res.cloudinary.com/growdigital/image/upload/w_800/v1631803029/penparcau/Sunbowl-169.jpg"
-imageAlt: "Sketch of 3 curved beds, getting higher to the back"
+images: 
+- "https://res.cloudinary.com/growdigital/image/upload/v1631803029/penparcau/Sunbowl-169.jpg"
+imageAlt: 
+- "Sketch of 3 curved beds, getting higher to the back"
 client: "Annette & Barry"
 summary: "Half acre ornamental forest garden for Welsh farmhouse"
 location: "Carmathenshire, Wales"

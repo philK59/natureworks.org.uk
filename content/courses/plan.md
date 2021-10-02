@@ -2,8 +2,10 @@
 title: "Plan a Backyard Forest"
 date: 2021-05-21T15:38:38
 draft: false
-image: "https://res.cloudinary.com/growdigital/image/upload/w_800/v1632217390/course/Plan_banner.jpg"
-imageAlt: "Small front forest garden with lines and text 'Plan a Backyard Forest'"
+images: 
+- "https://res.cloudinary.com/growdigital/image/upload/v1632217390/course/Plan_banner.jpg"
+imageAlt: 
+- "Small front forest garden with lines and text 'Plan a Backyard Forest'"
 summary: "Free forest garden mini-course"
 length: "47 minutes"
 level: "Beginner/Intermediate"

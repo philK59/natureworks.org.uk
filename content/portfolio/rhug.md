@@ -2,8 +2,10 @@
 title: "Rhug"
 date: 2019-08-29T15:38:38+06:00
 draft: false
-image: "https://res.cloudinary.com/growdigital/image/upload/w_800/v1631308152/rhug/scabious.jpg"
-company: ""
+images: 
+- "https://res.cloudinary.com/growdigital/image/upload/v1631308152/rhug/scabious.jpg"
+imageAlt:
+- "Pale blue flower against white wall"
 client: "Harry & Natalie"
 summary: "Ornamental native patio garden for Welsh holiday cottage"
 location: "St Dogmaels, Wales"

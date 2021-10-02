@@ -2,8 +2,10 @@
 title: "Rhydgaled"
 date: 2019-08-29T15:38:38+06:00
 draft: false
-image: "https://res.cloudinary.com/growdigital/image/upload/w_800/v1598704927/rhydgaled/rhydgaled-0.21-screenshot.png"
-imageAlt: "Dark CAD forest garden design"
+images: 
+- "https://res.cloudinary.com/growdigital/image/upload/v1598704927/rhydgaled/rhydgaled-0.21-screenshot.png"
+imageAlt: 
+- "Dark CAD forest garden design"
 client: "Daniel & Sara"
 summary: "One acre forest garden for Welsh cottage"
 location: "Ceredigion, Wales"

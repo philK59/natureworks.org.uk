@@ -2,8 +2,10 @@
 title: "The Forest Garden Spreadsheet"
 date: 2021-05-21T15:38:38
 draft: false
-image: "https://res.cloudinary.com/growdigital/image/upload/w_800/v1632217390/course/Spreadsheet_banner.jpg"
-imageAlt: "Photomontage of spreadsheet, book cover and face"
+images: 
+- "https://res.cloudinary.com/growdigital/image/upload/v1632217390/course/Spreadsheet_banner.jpg"
+imageAlt: 
+- "Photomontage of spreadsheet, book cover and face"
 summary: "Free downloadable forest garden plants spreadsheet"
 length: "As long as you want"
 level: "Beginner"

@@ -2,8 +2,10 @@
 title: "Hedgerows"
 date: 2020-01-28T09:00:00
 draft: false
-image: "https://res.cloudinary.com/growdigital/image/upload/w_800/v1631304479/hedgerows/hedgerows-flowers-shed.jpg"
-imageAlt: "Beds with flowers in front of shed at back of house"
+images: 
+- "https://res.cloudinary.com/growdigital/image/upload/v1631304479/hedgerows/hedgerows-flowers-shed.jpg"
+imageAlt: 
+- "Beds with flowers in front of shed at back of house"
 client: "Kirsty Hayhoe"
 summary: "Forest garden for English village property"
 location: "Northamptonshire, England"

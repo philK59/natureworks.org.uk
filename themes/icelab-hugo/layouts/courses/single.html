@@ -2,6 +2,11 @@
 
 {{ partial "page-title.html" . }}
 
+{{ if not .Params.images }}
+<h1>hello mum</h1>
+{{ end }}
+
+
 <!-- work details part start -->
 <section class="work-single section">
   <div class="container">
@@ -9,7 +14,7 @@
       <div class="col-lg-8">
         <div class="work-single-image">
           <!-- Work Single Image -->
-          <img class="img-fluid w-100" src="https://res.cloudinary.com/growdigital/image/upload/f_auto,q_70,w_736/{{ substr (.Params.Image) 52 }}" alt="{{ .Params.imageAlt }}">
+          <img class="img-fluid w-100" src="{{ .Site.Params.cloudinary }}f_auto,q_60,w_736/{{ strings.TrimLeft .Site.Params.cloudinary (index .Params.images 0) }}" alt="{{ (index .Params.imageAlt 0) }}">
         </div>
         <!-- work single Content -->
         <div class="work-single-content">
