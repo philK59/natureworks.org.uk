@@ -1,5 +1,5 @@
 ---
-title: Multipurpose pathways in the forest garden
+title: Multipurpose pathways
 date: 2021-09-30T14:56:15+01:00
 description: Paths in the forest garden are useful in so many different ways
 tags: 
