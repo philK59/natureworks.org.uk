@@ -25,3 +25,27 @@ gallery: false
 draft: true
 ---
 
+Paths are great.
+
+1. Create areas - part of design process
+2. Provide access
+3. keep plants in check
+
+Question, what material? Want sustainable materials, not plastic.
+
+1. Grass - great, cheap, hardwearing. But grows everywhere. Not next to delicate flowers. Have to mow every few weeks.
+2. Wood chip - good for delicate areas, normally bring it in, requires regular hoeing, & topping up every year or so. good for delicate beds.
+3. Hoggin - clay, sand & gravel. Again, imported. Not for vehicles. Big installation
+
+delicate areas, balance between delicate flowers eg alliums, ground cover, and 
+
+What you grow where depends on what you're growing!
+
+Grass creep. Strong ground cover, eg mints, chinese bramble. Mown grass keeps mint in check. Or clumping “boundary plants” eg lemon balm, or geranium macrorrhizum, provide edge to an area without creeping into it, 
+
+Other boundary is physical one eg wooden plank
+
+perimeter path. always recommend one, to keep plants in check and for access.
+
+
+
