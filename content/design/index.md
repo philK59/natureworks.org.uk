@@ -18,7 +18,7 @@ links:
   url: /design#what-is-a-forest-garden
 ---
 
-I create [forest garden](#what-is-a-forest-garden) designs that are sustainable, low maintenance and wildlife friendly. I can also implement and advise on garden landscaping. See my [portfolio](/portfolio/).
+I create and landscape [forest garden](#what-is-a-forest-garden) designs that are sustainable, low maintenance and wildlife friendly. Based in West Wales, I offer both a local and remote design service, see my [portfolio](/portfolio/) for examples.
 
 Central to the design is **working with nature**, working with what is already on-site and figuring what plants will thrive in the specific conditions. I prefer to use locally sourced materials and avoid costly groundworks where possible.
 
