@@ -30,6 +30,8 @@ Access in a forest garden is _so_ important. You need to see what is doing well,
 
 The forest garden is a dynamic system, constantly changing across time and with the seasons, and you need to _see_ those changes to be able to respond to them.
 
+A good tip is to vary the width of the paths. The main paths in my garden are grass and a metre wide, which makes for easy mowing, whereas I have smaller paths made of either wood chip or a clearing through the ground cover to the crop.
+
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1632943589/grass-path-perimeter-210929.jpg" alt="Mown grass path across rough pasture field, sun shining" caption="A perimeter path keeps the bramble from tip-layering into the garden" >}}
 
 Living in [West Wales](https://en.wikipedia.org/wiki/West_Wales), a key feature I have come to rely on is the **perimeter path**. This is simply a mown path around the edge of the property which is invaluable in keeping the tip-layering [Bramble (_Rubus fruticosus_](https://pfaf.org/user/plant.aspx?latinname=Rubus+fruticosus)) from spreading into the garden.
