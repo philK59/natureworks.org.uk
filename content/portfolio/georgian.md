@@ -1,20 +1,20 @@
 ---
-title: "Penparcau"
+title: "Georgian"
 date: 2021-09-14T15:38:38+06:00
 draft: false
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1631803029/penparcau/Sunbowl-169.jpg"
 imageAlt: 
 - "Sketch of 3 curved beds, getting higher to the back"
-client: "Annette & Barry"
+client: "Family of 5"
 summary: "Half acre ornamental forest garden for Welsh farmhouse"
 location: "Carmathenshire, Wales"
-siteLink: "bit.ly/penparcau-garden"
+siteLink: "bit.ly/georgian-garden"
 ---
 
 ### Forest garden practicality & loose Georgian elegance
           
-Set on a gently sloping, West-facing rear garden, Penparcau presents a real opportunity to showcase native wild flowers and forest garden plants in an almost formal setting. The garden can be divided into four areas: the well-defined ‘Sunbowl’ of tapered vegetation forming a natural amphitheatre, the curved perennial vegetable beds to the West defined by the existing path, the orchard along the North boundary and the woodland fire pit to the East.
+Set on a gently sloping, West-facing rear garden, Georgian presents a real opportunity to showcase native wild flowers and forest garden plants in an almost formal setting. The garden can be divided into four areas: the well-defined ‘Sunbowl’ of tapered vegetation forming a natural amphitheatre, the curved perennial vegetable beds to the West defined by the existing path, the orchard along the North boundary and the woodland fire pit to the East.
 
 {{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1632142088/penparcau/penparcau-cad-1.25-whole.png" alt="CAD plan showing whole garden" caption="Complete CAD plan" >}}
 
