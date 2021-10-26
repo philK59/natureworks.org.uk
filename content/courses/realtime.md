@@ -1,6 +1,6 @@
 ---
 title: "Realtime Workshop"
-date: 2021-05-21T15:38:38
+date: 2021-10-22T15:38:38
 draft: false
 images: 
 - "https://res.cloudinary.com/growdigital/image/upload/v1632217390/course/Realtime_banner.jpg"
