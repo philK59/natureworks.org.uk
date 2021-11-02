@@ -16,7 +16,7 @@ features:
 - "Slideshows always online 🙏🏾 💚"
 - "First two Mondays 📆 🏡"
 - "Access to Telegram group 😲 🎉"
-price: 29.99
+price: 19.99
 link: https://gumroad.com/l/YRAGw
 ---
 
